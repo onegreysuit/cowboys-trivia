@@ -1,0 +1,6002 @@
+[
+  {
+    "question": "How many Super Bowls have the Dallas Cowboys won?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "answer": "5",
+    "category": "Super Bowls",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Cowboys quarterback was the MVP of Super Bowl VI?",
+    "options": [
+      "Roger Staubach",
+      "Don Meredith",
+      "Craig Morton",
+      "Danny White"
+    ],
+    "answer": "Roger Staubach",
+    "category": "Super Bowls",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who did the Cowboys defeat in Super Bowl VI?",
+    "options": [
+      "Miami Dolphins",
+      "Pittsburgh Steelers",
+      "Baltimore Colts",
+      "Minnesota Vikings"
+    ],
+    "answer": "Miami Dolphins",
+    "category": "Super Bowls",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the final score of Super Bowl VI?",
+    "options": [
+      "24-3",
+      "27-10",
+      "30-13",
+      "21-17"
+    ],
+    "answer": "24-3",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which two Cowboys were co-MVPs of Super Bowl XII?",
+    "options": [
+      "Randy White & Harvey Martin",
+      "Roger Staubach & Tony Dorsett",
+      "Bob Lilly & Mel Renfro",
+      "Ed Jones & Thomas Henderson"
+    ],
+    "answer": "Randy White & Harvey Martin",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who did the Cowboys beat in Super Bowl XII?",
+    "options": [
+      "Denver Broncos",
+      "Pittsburgh Steelers",
+      "Oakland Raiders",
+      "Miami Dolphins"
+    ],
+    "answer": "Denver Broncos",
+    "category": "Super Bowls",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the score of Super Bowl XII?",
+    "options": [
+      "27-10",
+      "24-3",
+      "35-31",
+      "30-13"
+    ],
+    "answer": "27-10",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the MVP of Super Bowl XXVII?",
+    "options": [
+      "Troy Aikman",
+      "Emmitt Smith",
+      "Michael Irvin",
+      "Jay Novacek"
+    ],
+    "answer": "Troy Aikman",
+    "category": "Super Bowls",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the score of the Cowboys' Super Bowl XXVII blowout win over the Bills?",
+    "options": [
+      "52-17",
+      "48-20",
+      "42-10",
+      "55-10"
+    ],
+    "answer": "52-17",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the MVP of Super Bowl XXVIII?",
+    "options": [
+      "Emmitt Smith",
+      "Troy Aikman",
+      "Michael Irvin",
+      "Charles Haley"
+    ],
+    "answer": "Emmitt Smith",
+    "category": "Super Bowls",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the final score of Super Bowl XXVIII?",
+    "options": [
+      "30-13",
+      "52-17",
+      "27-17",
+      "35-21"
+    ],
+    "answer": "30-13",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who did the Cowboys defeat in Super Bowl XXX?",
+    "options": [
+      "Pittsburgh Steelers",
+      "Buffalo Bills",
+      "San Francisco 49ers",
+      "Green Bay Packers"
+    ],
+    "answer": "Pittsburgh Steelers",
+    "category": "Super Bowls",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was the MVP of Super Bowl XXX?",
+    "options": [
+      "Larry Brown",
+      "Troy Aikman",
+      "Emmitt Smith",
+      "Deion Sanders"
+    ],
+    "answer": "Larry Brown",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Larry Brown won Super Bowl XXX MVP primarily for doing what?",
+    "options": [
+      "Intercepting 2 passes",
+      "Scoring 3 touchdowns",
+      "Sacking Neil O'Donnell 4 times",
+      "Returning a kickoff for a touchdown"
+    ],
+    "answer": "Intercepting 2 passes",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the final score of Super Bowl XXX?",
+    "options": [
+      "27-17",
+      "30-13",
+      "24-21",
+      "31-24"
+    ],
+    "answer": "27-17",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which team did the Cowboys lose to in Super Bowl V?",
+    "options": [
+      "Baltimore Colts",
+      "Pittsburgh Steelers",
+      "Green Bay Packers",
+      "Miami Dolphins"
+    ],
+    "answer": "Baltimore Colts",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the final score of Super Bowl V?",
+    "options": [
+      "16-13",
+      "21-17",
+      "24-3",
+      "13-10"
+    ],
+    "answer": "16-13",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which team beat the Cowboys in Super Bowl X?",
+    "options": [
+      "Pittsburgh Steelers",
+      "Oakland Raiders",
+      "Miami Dolphins",
+      "Baltimore Colts"
+    ],
+    "answer": "Pittsburgh Steelers",
+    "category": "Super Bowls",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the final score of Super Bowl X?",
+    "options": [
+      "21-17",
+      "35-31",
+      "16-13",
+      "27-10"
+    ],
+    "answer": "21-17",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which team defeated the Cowboys in Super Bowl XIII?",
+    "options": [
+      "Pittsburgh Steelers",
+      "Oakland Raiders",
+      "Baltimore Colts",
+      "Denver Broncos"
+    ],
+    "answer": "Pittsburgh Steelers",
+    "category": "Super Bowls",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the final score of Super Bowl XIII?",
+    "options": [
+      "35-31",
+      "21-17",
+      "27-10",
+      "31-28"
+    ],
+    "answer": "35-31",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many total Super Bowl appearances have the Cowboys made?",
+    "options": [
+      "8",
+      "7",
+      "6",
+      "9"
+    ],
+    "answer": "8",
+    "category": "Super Bowls",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which team did the Cowboys face in back-to-back Super Bowls XXVII and XXVIII?",
+    "options": [
+      "Buffalo Bills",
+      "Pittsburgh Steelers",
+      "San Francisco 49ers",
+      "Miami Dolphins"
+    ],
+    "answer": "Buffalo Bills",
+    "category": "Super Bowls",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Cowboys player famously fumbled near the goal line in Super Bowl XXVII?",
+    "options": [
+      "Leon Lett",
+      "Emmitt Smith",
+      "Ken Norton Jr.",
+      "Thomas Everett"
+    ],
+    "answer": "Leon Lett",
+    "category": "Super Bowls",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who stripped Leon Lett of the ball on his fumble return in Super Bowl XXVII?",
+    "options": [
+      "Don Beebe",
+      "Andre Reed",
+      "Jim Kelly",
+      "Thurman Thomas"
+    ],
+    "answer": "Don Beebe",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many touchdown passes did Troy Aikman throw in Super Bowl XXVII?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answer": "4",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the only player to win Super Bowl MVP on a losing team, doing so in Super Bowl V?",
+    "options": [
+      "Chuck Howley",
+      "Joe Namath",
+      "Len Dawson",
+      "Bob Lilly"
+    ],
+    "answer": "Chuck Howley",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the Cowboys' head coach for their first two Super Bowl wins?",
+    "options": [
+      "Tom Landry",
+      "Jimmy Johnson",
+      "Barry Switzer",
+      "Bill Parcells"
+    ],
+    "answer": "Tom Landry",
+    "category": "Super Bowls",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who coached the Cowboys to Super Bowl XXVII and XXVIII victories?",
+    "options": [
+      "Jimmy Johnson",
+      "Barry Switzer",
+      "Tom Landry",
+      "Bill Parcells"
+    ],
+    "answer": "Jimmy Johnson",
+    "category": "Super Bowls",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who coached the Cowboys to their Super Bowl XXX victory?",
+    "options": [
+      "Barry Switzer",
+      "Jimmy Johnson",
+      "Tom Landry",
+      "Bill Parcells"
+    ],
+    "answer": "Barry Switzer",
+    "category": "Super Bowls",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In which decade did the Cowboys win the majority of their Super Bowls?",
+    "options": [
+      "1990s",
+      "1970s",
+      "1980s",
+      "2000s"
+    ],
+    "answer": "1990s",
+    "category": "Super Bowls",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Steelers quarterback did the Cowboys face in Super Bowl XXX?",
+    "options": [
+      "Neil O'Donnell",
+      "Ben Roethlisberger",
+      "Terry Bradshaw",
+      "Kordell Stewart"
+    ],
+    "answer": "Neil O'Donnell",
+    "category": "Super Bowls",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many rushing yards did Emmitt Smith have in Super Bowl XXVIII?",
+    "options": [
+      "132",
+      "108",
+      "164",
+      "91"
+    ],
+    "answer": "132",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many fumble recoveries did the Cowboys have in Super Bowl XXVII?",
+    "options": [
+      "9",
+      "5",
+      "7",
+      "3"
+    ],
+    "answer": "9",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys running back rushed for 95 yards in Super Bowl VI?",
+    "options": [
+      "Duane Thomas",
+      "Walt Garrison",
+      "Calvin Hill",
+      "Don Perkins"
+    ],
+    "answer": "Duane Thomas",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who is the all-time career leader in rushing yards in NFL history?",
+    "options": [
+      "Emmitt Smith",
+      "Walter Payton",
+      "Barry Sanders",
+      "Frank Gore"
+    ],
+    "answer": "Emmitt Smith",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many career rushing yards did Emmitt Smith accumulate?",
+    "options": [
+      "18,355",
+      "16,726",
+      "19,112",
+      "17,418"
+    ],
+    "answer": "18,355",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What jersey number did Emmitt Smith wear?",
+    "options": [
+      "22",
+      "33",
+      "21",
+      "28"
+    ],
+    "answer": "22",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In what year was Emmitt Smith drafted by the Cowboys?",
+    "options": [
+      "1990",
+      "1989",
+      "1991",
+      "1988"
+    ],
+    "answer": "1990",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many rushing titles did Emmitt Smith win?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "2"
+    ],
+    "answer": "4",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What college did Emmitt Smith attend?",
+    "options": [
+      "Florida",
+      "Florida State",
+      "Miami",
+      "Alabama"
+    ],
+    "answer": "Florida",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What jersey number did Troy Aikman wear?",
+    "options": [
+      "8",
+      "12",
+      "7",
+      "11"
+    ],
+    "answer": "8",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What overall pick was Troy Aikman in the 1989 NFL Draft?",
+    "options": [
+      "1st overall",
+      "2nd overall",
+      "3rd overall",
+      "5th overall"
+    ],
+    "answer": "1st overall",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What college did Troy Aikman attend?",
+    "options": [
+      "UCLA",
+      "Oklahoma",
+      "USC",
+      "Texas"
+    ],
+    "answer": "UCLA",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What jersey number did Michael Irvin wear?",
+    "options": [
+      "88",
+      "80",
+      "81",
+      "84"
+    ],
+    "answer": "88",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was Michael Irvin's nickname?",
+    "options": [
+      "The Playmaker",
+      "Prime Time",
+      "Bullet Bob",
+      "The Missile"
+    ],
+    "answer": "The Playmaker",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What college did Michael Irvin attend?",
+    "options": [
+      "Miami",
+      "Florida State",
+      "Florida",
+      "Texas"
+    ],
+    "answer": "Miami",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the trio of Aikman, Smith, and Irvin commonly called?",
+    "options": [
+      "The Triplets",
+      "The Big Three",
+      "The Three Amigos",
+      "Dallas Dynamite"
+    ],
+    "answer": "The Triplets",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What jersey number did Roger Staubach wear?",
+    "options": [
+      "12",
+      "8",
+      "14",
+      "16"
+    ],
+    "answer": "12",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was Roger Staubach's famous nickname?",
+    "options": [
+      "Roger the Dodger",
+      "Captain America",
+      "Captain Comeback",
+      "The Cowboy"
+    ],
+    "answer": "Roger the Dodger",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What military branch did Roger Staubach serve in before joining the Cowboys?",
+    "options": [
+      "Navy",
+      "Army",
+      "Marines",
+      "Air Force"
+    ],
+    "answer": "Navy",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Roger Staubach won the Heisman Trophy while playing for which school?",
+    "options": [
+      "Navy",
+      "Notre Dame",
+      "Texas",
+      "Alabama"
+    ],
+    "answer": "Navy",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What jersey number did Tony Dorsett wear?",
+    "options": [
+      "33",
+      "22",
+      "34",
+      "32"
+    ],
+    "answer": "33",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What college did Tony Dorsett play for?",
+    "options": [
+      "Pittsburgh",
+      "Penn State",
+      "Ohio State",
+      "USC"
+    ],
+    "answer": "Pittsburgh",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Tony Dorsett holds the record for the longest run from scrimmage. How long was it?",
+    "options": [
+      "99 yards",
+      "97 yards",
+      "98 yards",
+      "95 yards"
+    ],
+    "answer": "99 yards",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Against which team did Tony Dorsett run 99 yards for a touchdown?",
+    "options": [
+      "Minnesota Vikings",
+      "Washington Redskins",
+      "Philadelphia Eagles",
+      "New York Giants"
+    ],
+    "answer": "Minnesota Vikings",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the first Cowboys player inducted into the Pro Football Hall of Fame?",
+    "options": [
+      "Bob Lilly",
+      "Roger Staubach",
+      "Don Meredith",
+      "Bob Hayes"
+    ],
+    "answer": "Bob Lilly",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Bob Lilly's nickname?",
+    "options": [
+      "Mr. Cowboy",
+      "The Purple People Eater",
+      "Mean Joe",
+      "Big Cat"
+    ],
+    "answer": "Mr. Cowboy",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What position did Bob Lilly play?",
+    "options": [
+      "Defensive tackle",
+      "Defensive end",
+      "Linebacker",
+      "Safety"
+    ],
+    "answer": "Defensive tackle",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Deion Sanders' nickname?",
+    "options": [
+      "Prime Time",
+      "Neon Deion",
+      "The Playmaker",
+      "Prime"
+    ],
+    "answer": "Prime Time",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which two sports did Deion Sanders play professionally?",
+    "options": [
+      "Football and baseball",
+      "Football and basketball",
+      "Football and track",
+      "Football and soccer"
+    ],
+    "answer": "Football and baseball",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What jersey number did Deion Sanders wear with the Cowboys?",
+    "options": [
+      "21",
+      "24",
+      "20",
+      "27"
+    ],
+    "answer": "21",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What jersey number did Tony Romo wear?",
+    "options": [
+      "9",
+      "8",
+      "7",
+      "12"
+    ],
+    "answer": "9",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Tony Romo went undrafted out of which college?",
+    "options": [
+      "Eastern Illinois",
+      "Western Illinois",
+      "Northern Iowa",
+      "Southern Illinois"
+    ],
+    "answer": "Eastern Illinois",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What career did Tony Romo pursue after retiring from football?",
+    "options": [
+      "CBS broadcaster",
+      "NFL coach",
+      "Real estate developer",
+      "Fox analyst"
+    ],
+    "answer": "CBS broadcaster",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What position did Jason Witten play?",
+    "options": [
+      "Tight end",
+      "Wide receiver",
+      "Linebacker",
+      "Offensive tackle"
+    ],
+    "answer": "Tight end",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What jersey number did Jason Witten wear?",
+    "options": [
+      "82",
+      "88",
+      "84",
+      "80"
+    ],
+    "answer": "82",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What college did Jason Witten attend?",
+    "options": [
+      "Tennessee",
+      "Alabama",
+      "Georgia",
+      "Florida"
+    ],
+    "answer": "Tennessee",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Cowboys receiver was involved in the 'Dez Caught It' play?",
+    "options": [
+      "Dez Bryant",
+      "Cole Beasley",
+      "Terrance Williams",
+      "Miles Austin"
+    ],
+    "answer": "Dez Bryant",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What jersey number did Dez Bryant wear?",
+    "options": [
+      "88",
+      "80",
+      "81",
+      "84"
+    ],
+    "answer": "88",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What college did Dez Bryant attend?",
+    "options": [
+      "Oklahoma State",
+      "Oklahoma",
+      "Texas",
+      "Texas A&M"
+    ],
+    "answer": "Oklahoma State",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What position did DeMarcus Ware play?",
+    "options": [
+      "Linebacker/Defensive end",
+      "Defensive tackle",
+      "Safety",
+      "Cornerback"
+    ],
+    "answer": "Linebacker/Defensive end",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What jersey number did DeMarcus Ware wear with the Cowboys?",
+    "options": [
+      "94",
+      "90",
+      "93",
+      "97"
+    ],
+    "answer": "94",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who holds the Cowboys' all-time sack record?",
+    "options": [
+      "DeMarcus Ware",
+      "Harvey Martin",
+      "Charles Haley",
+      "Ed Jones"
+    ],
+    "answer": "DeMarcus Ware",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What jersey number did Dak Prescott wear?",
+    "options": [
+      "4",
+      "9",
+      "12",
+      "7"
+    ],
+    "answer": "4",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What college did Dak Prescott attend?",
+    "options": [
+      "Mississippi State",
+      "Ole Miss",
+      "Alabama",
+      "LSU"
+    ],
+    "answer": "Mississippi State",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In what round was Dak Prescott drafted in 2016?",
+    "options": [
+      "4th round",
+      "1st round",
+      "2nd round",
+      "3rd round"
+    ],
+    "answer": "4th round",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Cowboys running back won Offensive Rookie of the Year in 2016?",
+    "options": [
+      "Ezekiel Elliott",
+      "DeMarco Murray",
+      "Joseph Randle",
+      "Darren McFadden"
+    ],
+    "answer": "Ezekiel Elliott",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What jersey number did Ezekiel Elliott wear with the Cowboys?",
+    "options": [
+      "21",
+      "22",
+      "15",
+      "28"
+    ],
+    "answer": "21",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What college did Ezekiel Elliott attend?",
+    "options": [
+      "Ohio State",
+      "Alabama",
+      "Oklahoma",
+      "Clemson"
+    ],
+    "answer": "Ohio State",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Ed 'Too Tall' Jones known for briefly leaving football to pursue?",
+    "options": [
+      "Professional boxing",
+      "Acting",
+      "Business ventures",
+      "Coaching"
+    ],
+    "answer": "Professional boxing",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How tall was Ed 'Too Tall' Jones?",
+    "options": [
+      "6'9\"",
+      "6'7\"",
+      "6'10\"",
+      "6'8\""
+    ],
+    "answer": "6'9\"",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What position did Larry Allen play?",
+    "options": [
+      "Offensive guard/tackle",
+      "Defensive tackle",
+      "Center",
+      "Tight end"
+    ],
+    "answer": "Offensive guard/tackle",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many Pro Bowl selections did Larry Allen earn?",
+    "options": [
+      "11",
+      "9",
+      "13",
+      "7"
+    ],
+    "answer": "11",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys linebacker was known as 'Hollywood'?",
+    "options": [
+      "Thomas Henderson",
+      "D.D. Lewis",
+      "Lee Roy Jordan",
+      "Chuck Howley"
+    ],
+    "answer": "Thomas Henderson",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' famous defensive unit in the 1970s called?",
+    "options": [
+      "Doomsday Defense",
+      "Steel Curtain",
+      "Purple People Eaters",
+      "Fearsome Foursome"
+    ],
+    "answer": "Doomsday Defense",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Cowboys receiver caught the original 'Hail Mary' pass?",
+    "options": [
+      "Drew Pearson",
+      "Golden Richards",
+      "Bob Hayes",
+      "Tony Hill"
+    ],
+    "answer": "Drew Pearson",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Bob Hayes' Olympic accomplishment?",
+    "options": [
+      "Won gold medal in 100m dash (1964)",
+      "Won gold medal in 200m dash",
+      "Won gold medal in long jump",
+      "Won silver medal in 100m"
+    ],
+    "answer": "Won gold medal in 100m dash (1964)",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Bob Hayes' nickname?",
+    "options": [
+      "Bullet Bob",
+      "Lightning Bob",
+      "Speedy Bob",
+      "Flash"
+    ],
+    "answer": "Bullet Bob",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Cowboys quarterback was known as 'Dandy Don'?",
+    "options": [
+      "Don Meredith",
+      "Don Perkins",
+      "Danny White",
+      "Craig Morton"
+    ],
+    "answer": "Don Meredith",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Charles Haley is the only player in NFL history to have won how many Super Bowl rings?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "answer": "5",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which team did the Cowboys acquire Charles Haley from?",
+    "options": [
+      "San Francisco 49ers",
+      "New York Giants",
+      "Chicago Bears",
+      "Green Bay Packers"
+    ],
+    "answer": "San Francisco 49ers",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Daryl Johnston's nickname?",
+    "options": [
+      "Moose",
+      "The Diesel",
+      "Tank",
+      "Hammer"
+    ],
+    "answer": "Moose",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What position did Daryl Johnston play?",
+    "options": [
+      "Fullback",
+      "Running back",
+      "Tight end",
+      "Linebacker"
+    ],
+    "answer": "Fullback",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Cowboys linebacker was known as the 'Manster'?",
+    "options": [
+      "Randy White",
+      "Thomas Henderson",
+      "Lee Roy Jordan",
+      "Chuck Howley"
+    ],
+    "answer": "Randy White",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys running back won the NFL rushing title in 2014?",
+    "options": [
+      "DeMarco Murray",
+      "Ezekiel Elliott",
+      "Joseph Randle",
+      "Felix Jones"
+    ],
+    "answer": "DeMarco Murray",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who is the Cowboys' all-time leader in receptions?",
+    "options": [
+      "Jason Witten",
+      "Michael Irvin",
+      "Drew Pearson",
+      "Dez Bryant"
+    ],
+    "answer": "Jason Witten",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What jersey number did CeeDee Lamb wear?",
+    "options": [
+      "88",
+      "2",
+      "80",
+      "10"
+    ],
+    "answer": "88",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What college did CeeDee Lamb attend?",
+    "options": [
+      "Oklahoma",
+      "Alabama",
+      "Ohio State",
+      "LSU"
+    ],
+    "answer": "Oklahoma",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Micah Parsons won Defensive Rookie of the Year in what year?",
+    "options": [
+      "2021",
+      "2020",
+      "2022",
+      "2019"
+    ],
+    "answer": "2021",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What college did Micah Parsons attend?",
+    "options": [
+      "Penn State",
+      "Ohio State",
+      "Alabama",
+      "Clemson"
+    ],
+    "answer": "Penn State",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who replaced Roger Staubach as the Cowboys' starting quarterback?",
+    "options": [
+      "Danny White",
+      "Gary Hogeboom",
+      "Craig Morton",
+      "Glenn Carano"
+    ],
+    "answer": "Danny White",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was unique about Danny White's role on the team?",
+    "options": [
+      "He was both quarterback and punter",
+      "He played both offense and defense",
+      "He was also the kicker",
+      "He was a player-coach"
+    ],
+    "answer": "He was both quarterback and punter",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Cowboys cornerback led the NFL in interceptions in 1981 with 11 picks?",
+    "options": [
+      "Everson Walls",
+      "Dennis Thurman",
+      "Michael Downs",
+      "Deion Sanders"
+    ],
+    "answer": "Everson Walls",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who is the Cowboys' all-time leader in passing touchdowns?",
+    "options": [
+      "Tony Romo",
+      "Troy Aikman",
+      "Roger Staubach",
+      "Dak Prescott"
+    ],
+    "answer": "Tony Romo",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Calvin Hill's son is which NBA star?",
+    "options": [
+      "Grant Hill",
+      "Jalen Hill",
+      "George Hill",
+      "Jordan Hill"
+    ],
+    "answer": "Grant Hill",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What position did Darren Woodson play?",
+    "options": [
+      "Safety",
+      "Cornerback",
+      "Linebacker",
+      "Defensive end"
+    ],
+    "answer": "Safety",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Cowboys quarterback started before Tony Romo took over in 2006?",
+    "options": [
+      "Drew Bledsoe",
+      "Vinny Testaverde",
+      "Quincy Carter",
+      "Chad Hutchinson"
+    ],
+    "answer": "Drew Bledsoe",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Trevon Diggs' remarkable 2021 season accomplishment?",
+    "options": [
+      "11 interceptions",
+      "20 pass breakups",
+      "3 pick-sixes in one game",
+      "Zero touchdowns allowed"
+    ],
+    "answer": "11 interceptions",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What relation is Trevon Diggs to another NFL star?",
+    "options": [
+      "Brother of Stefon Diggs",
+      "Cousin of Quandre Diggs",
+      "Son of a former NFL player",
+      "No relation"
+    ],
+    "answer": "Brother of Stefon Diggs",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which Cowboys offensive lineman was named to 7 consecutive Pro Bowls starting in 2014?",
+    "options": [
+      "Zack Martin",
+      "Travis Frederick",
+      "Tyron Smith",
+      "La'el Collins"
+    ],
+    "answer": "Zack Martin",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "After retiring from the Cowboys, which team did Emmitt Smith briefly play for?",
+    "options": [
+      "Arizona Cardinals",
+      "Denver Broncos",
+      "Miami Dolphins",
+      "He only played for Dallas"
+    ],
+    "answer": "Arizona Cardinals",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Emmitt Smith won the NFL MVP award in what year?",
+    "options": [
+      "1993",
+      "1992",
+      "1994",
+      "1995"
+    ],
+    "answer": "1993",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many career rushing touchdowns did Emmitt Smith score (NFL record)?",
+    "options": [
+      "164",
+      "145",
+      "175",
+      "155"
+    ],
+    "answer": "164",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What injury forced Michael Irvin to retire?",
+    "options": [
+      "Cervical spinal cord injury",
+      "Torn ACL",
+      "Broken collarbone",
+      "Concussion"
+    ],
+    "answer": "Cervical spinal cord injury",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many seasons did Troy Aikman play for the Cowboys?",
+    "options": [
+      "12",
+      "10",
+      "14",
+      "11"
+    ],
+    "answer": "12",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Roger Staubach won the Heisman Trophy in what year?",
+    "options": [
+      "1963",
+      "1962",
+      "1964",
+      "1965"
+    ],
+    "answer": "1963",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Dak Prescott won NFL Offensive Rookie of the Year in what year?",
+    "options": [
+      "2016",
+      "2017",
+      "2018",
+      "2015"
+    ],
+    "answer": "2016",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What injury did Dak Prescott suffer during the 2020 season?",
+    "options": [
+      "Compound fracture of right ankle",
+      "Torn ACL",
+      "Broken collarbone",
+      "Concussion"
+    ],
+    "answer": "Compound fracture of right ankle",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Cowboys safety was known as 'Captain Crash'?",
+    "options": [
+      "Cliff Harris",
+      "Charlie Waters",
+      "Darren Woodson",
+      "Bill Bates"
+    ],
+    "answer": "Cliff Harris",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys receiver caught 111 passes in 1995?",
+    "options": [
+      "Michael Irvin",
+      "Kevin Williams",
+      "Alvin Harper",
+      "Rocket Ismail"
+    ],
+    "answer": "Michael Irvin",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Rayfield Wright's nickname?",
+    "options": [
+      "Big Cat",
+      "The Freight Train",
+      "The Wall",
+      "Big Ray"
+    ],
+    "answer": "Big Cat",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What position did Rayfield Wright play?",
+    "options": [
+      "Offensive tackle",
+      "Defensive end",
+      "Tight end",
+      "Guard"
+    ],
+    "answer": "Offensive tackle",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys pass rusher had 14.5 sacks in 2017?",
+    "options": [
+      "DeMarcus Lawrence",
+      "David Irving",
+      "Tyrone Crawford",
+      "Maliek Collins"
+    ],
+    "answer": "DeMarcus Lawrence",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What jersey number did Amari Cooper wear with the Cowboys?",
+    "options": [
+      "19",
+      "89",
+      "88",
+      "2"
+    ],
+    "answer": "19",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "From which team did the Cowboys trade for Amari Cooper in 2018?",
+    "options": [
+      "Oakland Raiders",
+      "Cleveland Browns",
+      "Buffalo Bills",
+      "New York Jets"
+    ],
+    "answer": "Oakland Raiders",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Cowboys first-round pick in 2011 became one of the best tackles of his era?",
+    "options": [
+      "Tyron Smith",
+      "Travis Frederick",
+      "Zack Martin",
+      "Doug Free"
+    ],
+    "answer": "Tyron Smith",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Cowboys quarterback led 3 consecutive NFC Championship appearances (1980-82)?",
+    "options": [
+      "Danny White",
+      "Roger Staubach",
+      "Gary Hogeboom",
+      "Craig Morton"
+    ],
+    "answer": "Danny White",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What position did Nate Newton play?",
+    "options": [
+      "Offensive guard",
+      "Offensive tackle",
+      "Center",
+      "Defensive tackle"
+    ],
+    "answer": "Offensive guard",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Cowboys safety earned 3 Super Bowl rings in the 1990s?",
+    "options": [
+      "Darren Woodson",
+      "Thomas Everett",
+      "Bill Bates",
+      "James Washington"
+    ],
+    "answer": "Darren Woodson",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What jersey number did Drew Pearson wear?",
+    "options": [
+      "88",
+      "80",
+      "84",
+      "86"
+    ],
+    "answer": "88",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In what year was Drew Pearson inducted into the Pro Football Hall of Fame?",
+    "options": [
+      "2021",
+      "2019",
+      "2020",
+      "2018"
+    ],
+    "answer": "2021",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In what year were the Dallas Cowboys founded?",
+    "options": [
+      "1960",
+      "1958",
+      "1962",
+      "1966"
+    ],
+    "answer": "1960",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who was the original owner of the Dallas Cowboys?",
+    "options": [
+      "Clint Murchison Jr.",
+      "Jerry Jones",
+      "Tex Schramm",
+      "H.R. Bright"
+    ],
+    "answer": "Clint Murchison Jr.",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In what year did Jerry Jones purchase the Dallas Cowboys?",
+    "options": [
+      "1989",
+      "1990",
+      "1988",
+      "1991"
+    ],
+    "answer": "1989",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How much did Jerry Jones pay to purchase the Cowboys?",
+    "options": [
+      "$140 million",
+      "$100 million",
+      "$200 million",
+      "$175 million"
+    ],
+    "answer": "$140 million",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' record in their inaugural 1960 season?",
+    "options": [
+      "0-11-1",
+      "1-10-1",
+      "2-10",
+      "0-12"
+    ],
+    "answer": "0-11-1",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What famous nickname is associated with the Dallas Cowboys?",
+    "options": [
+      "America's Team",
+      "The Star",
+      "Big D's Team",
+      "Lone Star Boys"
+    ],
+    "answer": "America's Team",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who coined the phrase 'America's Team'?",
+    "options": [
+      "NFL Films",
+      "Howard Cosell",
+      "Tom Landry",
+      "Tex Schramm"
+    ],
+    "answer": "NFL Films",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the famous 'Ice Bowl' game?",
+    "options": [
+      "1967 NFL Championship vs. Packers",
+      "1970 NFC Championship vs. 49ers",
+      "1975 Super Bowl vs. Steelers",
+      "1966 NFL Championship vs. Packers"
+    ],
+    "answer": "1967 NFL Championship vs. Packers",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the temperature at kickoff during the Ice Bowl?",
+    "options": [
+      "-13\u00b0F",
+      "-5\u00b0F",
+      "-20\u00b0F",
+      "0\u00b0F"
+    ],
+    "answer": "-13\u00b0F",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Where was the Ice Bowl played?",
+    "options": [
+      "Lambeau Field",
+      "Cotton Bowl",
+      "Municipal Stadium",
+      "Texas Stadium"
+    ],
+    "answer": "Lambeau Field",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the original 'Hail Mary' pass?",
+    "options": [
+      "Staubach to Pearson, 1975 NFC Divisional",
+      "Staubach to Pearson, 1975 NFC Championship",
+      "White to Hill, 1980 Wild Card",
+      "Morton to Hayes, 1970 NFC Championship"
+    ],
+    "answer": "Staubach to Pearson, 1975 NFC Divisional",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Against which team was the original Hail Mary pass thrown?",
+    "options": [
+      "Minnesota Vikings",
+      "Washington Redskins",
+      "Los Angeles Rams",
+      "Green Bay Packers"
+    ],
+    "answer": "Minnesota Vikings",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What trade is considered one of the greatest in NFL history, involving the Cowboys in 1989?",
+    "options": [
+      "The Herschel Walker trade",
+      "The Emmitt Smith trade",
+      "The Deion Sanders trade",
+      "The Charles Haley trade"
+    ],
+    "answer": "The Herschel Walker trade",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What NFC division do the Cowboys play in?",
+    "options": [
+      "NFC East",
+      "NFC South",
+      "NFC West",
+      "NFC North"
+    ],
+    "answer": "NFC East",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which three teams are the Cowboys' NFC East division rivals?",
+    "options": [
+      "Eagles, Giants, Commanders",
+      "Eagles, Giants, Cardinals",
+      "Eagles, Steelers, Giants",
+      "Commanders, Texans, Giants"
+    ],
+    "answer": "Eagles, Giants, Commanders",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What year did the Dallas Cowboys Cheerleaders first perform?",
+    "options": [
+      "1972",
+      "1966",
+      "1978",
+      "1960"
+    ],
+    "answer": "1972",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many consecutive winning seasons did the Cowboys have from 1966-1985?",
+    "options": [
+      "20",
+      "18",
+      "15",
+      "22"
+    ],
+    "answer": "20",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' record in 1989 under first-year coach Jimmy Johnson?",
+    "options": [
+      "1-15",
+      "2-14",
+      "0-16",
+      "3-13"
+    ],
+    "answer": "1-15",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was the Cowboys' first head coach?",
+    "options": [
+      "Tom Landry",
+      "Hank Stram",
+      "Tex Schramm",
+      "Gil Brandt"
+    ],
+    "answer": "Tom Landry",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the Cowboys' famous Thanksgiving Day tradition?",
+    "options": [
+      "Hosting a game every Thanksgiving",
+      "Always wearing white at home",
+      "Halftime fireworks show",
+      "Celebrity coin flip"
+    ],
+    "answer": "Hosting a game every Thanksgiving",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In what year did the Cowboys first play on Thanksgiving Day?",
+    "options": [
+      "1966",
+      "1960",
+      "1970",
+      "1975"
+    ],
+    "answer": "1966",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which famous Thanksgiving 1993 play involved Leon Lett?",
+    "options": [
+      "He fumbled trying to recover a blocked FG in snow",
+      "He returned a fumble for a TD",
+      "He sacked the QB to win",
+      "He caught a TD pass"
+    ],
+    "answer": "He fumbled trying to recover a blocked FG in snow",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Against which team did Leon Lett's Thanksgiving blunder occur?",
+    "options": [
+      "Miami Dolphins",
+      "Green Bay Packers",
+      "Washington Redskins",
+      "Chicago Bears"
+    ],
+    "answer": "Miami Dolphins",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who served as Cowboys GM and president from 1960-1989?",
+    "options": [
+      "Tex Schramm",
+      "Gil Brandt",
+      "Jerry Jones",
+      "Clint Murchison Jr."
+    ],
+    "answer": "Tex Schramm",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who was the Cowboys' VP of player personnel from 1960-1989?",
+    "options": [
+      "Gil Brandt",
+      "Tex Schramm",
+      "Tom Landry",
+      "Bob Ward"
+    ],
+    "answer": "Gil Brandt",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The Cowboys don't officially retire jersey numbers. True or false?",
+    "options": [
+      "True",
+      "False \u2014 they've retired 3 numbers",
+      "False \u2014 they retired #12",
+      "False \u2014 they retired #74"
+    ],
+    "answer": "True",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In what year did Tony Romo fumble the snap on a playoff field goal attempt?",
+    "options": [
+      "2007",
+      "2006",
+      "2008",
+      "2009"
+    ],
+    "answer": "2007",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Against which team did the Romo botched snap occur?",
+    "options": [
+      "Seattle Seahawks",
+      "Philadelphia Eagles",
+      "New York Giants",
+      "Carolina Panthers"
+    ],
+    "answer": "Seattle Seahawks",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The 'Dez Caught It' controversy was in a 2014 playoff game against whom?",
+    "options": [
+      "Green Bay Packers",
+      "Detroit Lions",
+      "Seattle Seahawks",
+      "Philadelphia Eagles"
+    ],
+    "answer": "Green Bay Packers",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the Cowboys' 2016 regular season record with rookie Dak and Zeke?",
+    "options": [
+      "13-3",
+      "12-4",
+      "14-2",
+      "11-5"
+    ],
+    "answer": "13-3",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "When was the last time the Cowboys appeared in an NFC Championship?",
+    "options": [
+      "1995 season",
+      "2007 season",
+      "2014 season",
+      "2003 season"
+    ],
+    "answer": "1995 season",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In what year did the Cowboys move from the Cotton Bowl to Texas Stadium?",
+    "options": [
+      "1971",
+      "1968",
+      "1975",
+      "1980"
+    ],
+    "answer": "1971",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In what year did AT&T Stadium open?",
+    "options": [
+      "2009",
+      "2007",
+      "2011",
+      "2005"
+    ],
+    "answer": "2009",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What happened to Texas Stadium in April 2010?",
+    "options": [
+      "Demolished by implosion",
+      "Converted to shopping center",
+      "Sold to city of Irving",
+      "Caught fire"
+    ],
+    "answer": "Demolished by implosion",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What year did Emmitt Smith break Walter Payton's rushing record?",
+    "options": [
+      "2002",
+      "2001",
+      "2003",
+      "2004"
+    ],
+    "answer": "2002",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Jerry Jones was a college teammate of which future Cowboys coach?",
+    "options": [
+      "Jimmy Johnson",
+      "Barry Switzer",
+      "Tom Landry",
+      "Bill Parcells"
+    ],
+    "answer": "Jimmy Johnson",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What college did Jerry Jones play football at?",
+    "options": [
+      "Arkansas",
+      "Texas",
+      "Oklahoma",
+      "SMU"
+    ],
+    "answer": "Arkansas",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What position does Jerry Jones hold with the Cowboys?",
+    "options": [
+      "Owner and General Manager",
+      "Owner only",
+      "Chairman",
+      "CEO only"
+    ],
+    "answer": "Owner and General Manager",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The Cowboys are often ranked as the most valuable sports franchise in the world. True or false?",
+    "options": [
+      "True",
+      "False",
+      "True, but only in America",
+      "Only in some years"
+    ],
+    "answer": "True",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the name of the Cowboys' mascot?",
+    "options": [
+      "Rowdy",
+      "Tex",
+      "Buck",
+      "Dallas"
+    ],
+    "answer": "Rowdy",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What color are the Cowboys' primary home jerseys?",
+    "options": [
+      "White",
+      "Navy blue",
+      "Silver",
+      "Royal blue"
+    ],
+    "answer": "White",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why do the Cowboys traditionally wear white jerseys at home?",
+    "options": [
+      "So fans could see visiting teams' colors",
+      "NFL rules required it",
+      "Jerry Jones preferred it",
+      "White was cheaper"
+    ],
+    "answer": "So fans could see visiting teams' colors",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What type of star is on the Cowboys' helmet?",
+    "options": [
+      "Blue star with white border",
+      "Silver star",
+      "White star with blue border",
+      "Plain blue star"
+    ],
+    "answer": "Blue star with white border",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What year was the Cowboys Ring of Honor established?",
+    "options": [
+      "1975",
+      "1970",
+      "1980",
+      "1966"
+    ],
+    "answer": "1975",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the first person inducted into the Cowboys Ring of Honor?",
+    "options": [
+      "Bob Lilly",
+      "Don Meredith",
+      "Don Perkins",
+      "Tom Landry"
+    ],
+    "answer": "Bob Lilly",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The 'Jessica Simpson Curse' refers to what in Cowboys lore?",
+    "options": [
+      "Romo's relationship blamed for poor play",
+      "Simpson sang anthem before a loss",
+      "Simpson wore wrong jersey number",
+      "A Simpson was a season ticket holder"
+    ],
+    "answer": "Romo's relationship blamed for poor play",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The Cowboys and Steelers have met in how many Super Bowls?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": "3",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' famous flex defense?",
+    "options": [
+      "4-3 with offset defensive linemen",
+      "3-4 with blitzing LBs",
+      "Zone with 5 DBs",
+      "Man-to-man with free safety"
+    ],
+    "answer": "4-3 with offset defensive linemen",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How long was Tom Landry the Cowboys' head coach?",
+    "options": [
+      "29 seasons",
+      "25 seasons",
+      "20 seasons",
+      "32 seasons"
+    ],
+    "answer": "29 seasons",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What years did Tom Landry coach the Cowboys?",
+    "options": [
+      "1960-1988",
+      "1960-1985",
+      "1964-1990",
+      "1960-1992"
+    ],
+    "answer": "1960-1988",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Tom Landry famous for wearing on the sideline?",
+    "options": [
+      "A fedora hat",
+      "Sunglasses",
+      "A cowboy hat",
+      "A headset"
+    ],
+    "answer": "A fedora hat",
+    "category": "Coaches",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Tom Landry popularized which defensive formation?",
+    "options": [
+      "The 4-3 defense",
+      "The 3-4 defense",
+      "The 46 defense",
+      "The nickel defense"
+    ],
+    "answer": "The 4-3 defense",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Tom Landry also popularized which offensive formation?",
+    "options": [
+      "The Shotgun formation",
+      "The Spread offense",
+      "The West Coast offense",
+      "The Pistol formation"
+    ],
+    "answer": "The Shotgun formation",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who replaced Tom Landry as head coach?",
+    "options": [
+      "Jimmy Johnson",
+      "Barry Switzer",
+      "Dave Wannstedt",
+      "Bill Parcells"
+    ],
+    "answer": "Jimmy Johnson",
+    "category": "Coaches",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What college did Jimmy Johnson coach before joining the Cowboys?",
+    "options": [
+      "University of Miami",
+      "Oklahoma",
+      "Texas",
+      "Notre Dame"
+    ],
+    "answer": "University of Miami",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many seasons did Jimmy Johnson coach the Cowboys?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "answer": "5",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why did Jimmy Johnson leave the Cowboys?",
+    "options": [
+      "Falling out with Jerry Jones",
+      "Fired for poor performance",
+      "Retired",
+      "Took another job"
+    ],
+    "answer": "Falling out with Jerry Jones",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Jimmy Johnson's record in his first season (1989)?",
+    "options": [
+      "1-15",
+      "2-14",
+      "0-16",
+      "3-13"
+    ],
+    "answer": "1-15",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who coached the Cowboys to their 5th Super Bowl title?",
+    "options": [
+      "Barry Switzer",
+      "Jimmy Johnson",
+      "Tom Landry",
+      "Bill Parcells"
+    ],
+    "answer": "Barry Switzer",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What college did Barry Switzer coach before the Cowboys?",
+    "options": [
+      "Oklahoma",
+      "Texas",
+      "Nebraska",
+      "Arkansas"
+    ],
+    "answer": "Oklahoma",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Barry Switzer and Jimmy Johnson are two of only how many coaches to win both a college title and Super Bowl?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": "Two",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In what year did Bill Parcells become the Cowboys' head coach?",
+    "options": [
+      "2003",
+      "2002",
+      "2004",
+      "2001"
+    ],
+    "answer": "2003",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What nickname is associated with Bill Parcells?",
+    "options": [
+      "The Big Tuna",
+      "The General",
+      "The Professor",
+      "Big Bill"
+    ],
+    "answer": "The Big Tuna",
+    "category": "Coaches",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who replaced Bill Parcells as Cowboys head coach?",
+    "options": [
+      "Wade Phillips",
+      "Jason Garrett",
+      "Tony Sparano",
+      "Mike Zimmer"
+    ],
+    "answer": "Wade Phillips",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In what year was Wade Phillips fired mid-season?",
+    "options": [
+      "2010",
+      "2009",
+      "2011",
+      "2008"
+    ],
+    "answer": "2010",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who replaced Wade Phillips as interim head coach in 2010?",
+    "options": [
+      "Jason Garrett",
+      "Sean Payton",
+      "Tony Sparano",
+      "Bill Callahan"
+    ],
+    "answer": "Jason Garrett",
+    "category": "Coaches",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who became Cowboys head coach in 2020?",
+    "options": [
+      "Mike McCarthy",
+      "Sean Payton",
+      "Lincoln Riley",
+      "Urban Meyer"
+    ],
+    "answer": "Mike McCarthy",
+    "category": "Coaches",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Mike McCarthy previously coached which team to a Super Bowl win?",
+    "options": [
+      "Green Bay Packers",
+      "Chicago Bears",
+      "Pittsburgh Steelers",
+      "New Orleans Saints"
+    ],
+    "answer": "Green Bay Packers",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which former Cowboys assistant went on to coach the Bears to a Super Bowl?",
+    "options": [
+      "Mike Ditka",
+      "Buddy Ryan",
+      "Dan Reeves",
+      "Jim Mora"
+    ],
+    "answer": "Mike Ditka",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which former Cowboys assistant became head coach of the Broncos and Falcons?",
+    "options": [
+      "Dan Reeves",
+      "Mike Ditka",
+      "Norv Turner",
+      "Dave Wannstedt"
+    ],
+    "answer": "Dan Reeves",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the Cowboys' offensive coordinator during the 1992-93 Super Bowl wins?",
+    "options": [
+      "Norv Turner",
+      "Ernie Zampese",
+      "Kevin Gilbride",
+      "Dave Wannstedt"
+    ],
+    "answer": "Norv Turner",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the Cowboys' defensive coordinator during Super Bowl XXVII?",
+    "options": [
+      "Dave Wannstedt",
+      "Butch Davis",
+      "Mike Zimmer",
+      "Monte Kiffin"
+    ],
+    "answer": "Dave Wannstedt",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many times did Tom Landry take the Cowboys to the Super Bowl?",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "6"
+    ],
+    "answer": "5",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Before coaching the Cowboys, Tom Landry was a defensive coordinator for which team?",
+    "options": [
+      "New York Giants",
+      "Cleveland Browns",
+      "Chicago Bears",
+      "Detroit Lions"
+    ],
+    "answer": "New York Giants",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Tom Landry served in what branch of the military during WWII?",
+    "options": [
+      "Army Air Corps",
+      "Navy",
+      "Marines",
+      "Army Infantry"
+    ],
+    "answer": "Army Air Corps",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many wins does Tom Landry have as Cowboys head coach?",
+    "options": [
+      "250",
+      "220",
+      "270",
+      "198"
+    ],
+    "answer": "250",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the Cowboys' head coach during the 2014 playoff run?",
+    "options": [
+      "Jason Garrett",
+      "Bill Parcells",
+      "Wade Phillips",
+      "Mike McCarthy"
+    ],
+    "answer": "Jason Garrett",
+    "category": "Coaches",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was the first Cowboys home stadium?",
+    "options": [
+      "Cotton Bowl",
+      "Texas Stadium",
+      "Fair Park Stadium",
+      "Burnett Field"
+    ],
+    "answer": "Cotton Bowl",
+    "category": "Stadiums",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In which city was the Cotton Bowl located?",
+    "options": [
+      "Dallas",
+      "Arlington",
+      "Irving",
+      "Fort Worth"
+    ],
+    "answer": "Dallas",
+    "category": "Stadiums",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In which city was Texas Stadium located?",
+    "options": [
+      "Irving",
+      "Dallas",
+      "Arlington",
+      "Plano"
+    ],
+    "answer": "Irving",
+    "category": "Stadiums",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the distinctive feature of Texas Stadium?",
+    "options": [
+      "A partial roof with a hole in the center",
+      "A retractable roof",
+      "A fully enclosed dome",
+      "No roof at all"
+    ],
+    "answer": "A partial roof with a hole in the center",
+    "category": "Stadiums",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What was the joke about the hole in Texas Stadium's roof?",
+    "options": [
+      "So God could watch His team play",
+      "So the stars could shine",
+      "To let the heat escape",
+      "It was a design accident"
+    ],
+    "answer": "So God could watch His team play",
+    "category": "Stadiums",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In which city is AT&T Stadium located?",
+    "options": [
+      "Arlington",
+      "Dallas",
+      "Irving",
+      "Fort Worth"
+    ],
+    "answer": "Arlington",
+    "category": "Stadiums",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is AT&T Stadium's common nickname?",
+    "options": [
+      "Jerry World",
+      "The Star",
+      "Big D Dome",
+      "Cowboy Palace"
+    ],
+    "answer": "Jerry World",
+    "category": "Stadiums",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How much did AT&T Stadium cost to build?",
+    "options": [
+      "$1.2 billion",
+      "$800 million",
+      "$1.5 billion",
+      "$2 billion"
+    ],
+    "answer": "$1.2 billion",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Does AT&T Stadium have a retractable roof?",
+    "options": [
+      "Yes",
+      "No \u2014 fixed dome",
+      "No \u2014 open air",
+      "Partially retractable"
+    ],
+    "answer": "Yes",
+    "category": "Stadiums",
+    "difficulty": "medium"
+  },
+  {
+    "question": "AT&T Stadium hosted which Super Bowl?",
+    "options": [
+      "Super Bowl XLV",
+      "Super Bowl XLVIII",
+      "Super Bowl L",
+      "Super Bowl XLII"
+    ],
+    "answer": "Super Bowl XLV",
+    "category": "Stadiums",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which teams played in the Super Bowl at AT&T Stadium?",
+    "options": [
+      "Packers vs. Steelers",
+      "Giants vs. Patriots",
+      "Saints vs. Colts",
+      "Cowboys vs. Steelers"
+    ],
+    "answer": "Packers vs. Steelers",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was AT&T Stadium's original name when it opened?",
+    "options": [
+      "Cowboys Stadium",
+      "Jerry Jones Stadium",
+      "Texas Stadium II",
+      "AT&T Stadium"
+    ],
+    "answer": "Cowboys Stadium",
+    "category": "Stadiums",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 'The Star' in Frisco, Texas?",
+    "options": [
+      "Cowboys practice facility and HQ",
+      "A restaurant by Jerry Jones",
+      "The team Hall of Fame",
+      "A sports bar"
+    ],
+    "answer": "Cowboys practice facility and HQ",
+    "category": "Stadiums",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What notable event happened at the Cowboys' first game at AT&T Stadium?",
+    "options": [
+      "A punt hit the video board",
+      "The roof wouldn't close",
+      "The field was wrong color",
+      "The scoreboard broke"
+    ],
+    "answer": "A punt hit the video board",
+    "category": "Stadiums",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The Cotton Bowl is located within which Dallas landmark?",
+    "options": [
+      "Fair Park",
+      "Victory Park",
+      "Deep Ellum",
+      "Reunion District"
+    ],
+    "answer": "Fair Park",
+    "category": "Stadiums",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the Cowboys' practice facility before 'The Star'?",
+    "options": [
+      "Valley Ranch",
+      "Texas Stadium annex",
+      "Cowboy Center",
+      "Blue Star Complex"
+    ],
+    "answer": "Valley Ranch",
+    "category": "Stadiums",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In which city was Valley Ranch located?",
+    "options": [
+      "Irving",
+      "Dallas",
+      "Arlington",
+      "Frisco"
+    ],
+    "answer": "Irving",
+    "category": "Stadiums",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What expandable capacity does AT&T Stadium have with standing room?",
+    "options": [
+      "Over 100,000",
+      "85,000",
+      "92,000",
+      "75,000"
+    ],
+    "answer": "Over 100,000",
+    "category": "Stadiums",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The Cowboys played at the Cotton Bowl from 1960 to what year?",
+    "options": [
+      "1971",
+      "1968",
+      "1975",
+      "1965"
+    ],
+    "answer": "1971",
+    "category": "Stadiums",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What major college football event is held at AT&T Stadium?",
+    "options": [
+      "The Cotton Bowl Classic",
+      "The Rose Bowl",
+      "The Sugar Bowl",
+      "The Fiesta Bowl"
+    ],
+    "answer": "The Cotton Bowl Classic",
+    "category": "Stadiums",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which event featured the highest ever attendance at AT&T Stadium?",
+    "options": [
+      "WrestleMania 32",
+      "Super Bowl XLV",
+      "A Cowboys game",
+      "A UFC event"
+    ],
+    "answer": "WrestleMania 32",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' Super Bowl record in the 1990s?",
+    "options": [
+      "3-0",
+      "2-1",
+      "3-1",
+      "2-0"
+    ],
+    "answer": "3-0",
+    "category": "Super Bowls",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who caught the game-winning TD in Super Bowl VI?",
+    "options": [
+      "Mike Ditka",
+      "Lance Alworth",
+      "Duane Thomas",
+      "Bob Hayes"
+    ],
+    "answer": "Mike Ditka",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many passing yards did Troy Aikman have in Super Bowl XXVII?",
+    "options": [
+      "273",
+      "315",
+      "198",
+      "242"
+    ],
+    "answer": "273",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who scored the first Cowboys touchdown in Super Bowl XXVII?",
+    "options": [
+      "Jay Novacek",
+      "Michael Irvin",
+      "Emmitt Smith",
+      "Troy Aikman"
+    ],
+    "answer": "Jay Novacek",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the halftime score of Super Bowl XXVII?",
+    "options": [
+      "28-10",
+      "21-7",
+      "35-14",
+      "14-7"
+    ],
+    "answer": "28-10",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In Super Bowl XXVIII, what was the halftime deficit the Cowboys overcame?",
+    "options": [
+      "13-6",
+      "10-6",
+      "17-14",
+      "7-0"
+    ],
+    "answer": "13-6",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many turnovers did the Bills commit in Super Bowl XXVIII?",
+    "options": [
+      "5",
+      "3",
+      "7",
+      "4"
+    ],
+    "answer": "5",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys player had an interception return for a TD in Super Bowl XXX?",
+    "options": [
+      "Larry Brown",
+      "Deion Sanders",
+      "Darren Woodson",
+      "Robert Jones"
+    ],
+    "answer": "Larry Brown",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' record in NFC Championship games during the 1992-1995 dynasty?",
+    "options": [
+      "3-1",
+      "4-0",
+      "2-2",
+      "3-0"
+    ],
+    "answer": "3-1",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who did the Cowboys beat in the 1992 NFC Championship game?",
+    "options": [
+      "San Francisco 49ers",
+      "Green Bay Packers",
+      "Washington Redskins",
+      "Philadelphia Eagles"
+    ],
+    "answer": "San Francisco 49ers",
+    "category": "Super Bowls",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who did the Cowboys beat in the 1993 NFC Championship?",
+    "options": [
+      "San Francisco 49ers",
+      "Green Bay Packers",
+      "New York Giants",
+      "Philadelphia Eagles"
+    ],
+    "answer": "San Francisco 49ers",
+    "category": "Super Bowls",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who beat the Cowboys in the 1994 NFC Championship?",
+    "options": [
+      "San Francisco 49ers",
+      "Green Bay Packers",
+      "Chicago Bears",
+      "Philadelphia Eagles"
+    ],
+    "answer": "San Francisco 49ers",
+    "category": "Super Bowls",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who did the Cowboys beat in the 1995 NFC Championship?",
+    "options": [
+      "Green Bay Packers",
+      "San Francisco 49ers",
+      "Philadelphia Eagles",
+      "Detroit Lions"
+    ],
+    "answer": "Green Bay Packers",
+    "category": "Super Bowls",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many points did the Cowboys score in Super Bowl XXVII?",
+    "options": [
+      "52",
+      "48",
+      "55",
+      "45"
+    ],
+    "answer": "52",
+    "category": "Super Bowls",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was unique about the Cowboys' 3 Super Bowl wins in 4 years (1992-95)?",
+    "options": [
+      "Different MVPs each time",
+      "Same starting QB each time",
+      "They never trailed at halftime",
+      "All were blowouts"
+    ],
+    "answer": "Different MVPs each time",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Tony Dorsett's career rushing total with the Cowboys?",
+    "options": [
+      "12,036",
+      "10,456",
+      "13,259",
+      "11,318"
+    ],
+    "answer": "12,036",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In what year was Tony Dorsett drafted?",
+    "options": [
+      "1977",
+      "1976",
+      "1978",
+      "1975"
+    ],
+    "answer": "1977",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What overall pick was Tony Dorsett in the 1977 draft?",
+    "options": [
+      "2nd overall",
+      "1st overall",
+      "4th overall",
+      "6th overall"
+    ],
+    "answer": "2nd overall",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Tony Dorsett won the Heisman Trophy in what year?",
+    "options": [
+      "1976",
+      "1975",
+      "1977",
+      "1974"
+    ],
+    "answer": "1976",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What position did Harvey Martin play?",
+    "options": [
+      "Defensive end",
+      "Linebacker",
+      "Defensive tackle",
+      "Safety"
+    ],
+    "answer": "Defensive end",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Harvey Martin was the NFL Defensive Player of the Year in what year?",
+    "options": [
+      "1977",
+      "1976",
+      "1978",
+      "1979"
+    ],
+    "answer": "1977",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What jersey number did Ed 'Too Tall' Jones wear?",
+    "options": [
+      "72",
+      "75",
+      "78",
+      "70"
+    ],
+    "answer": "72",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What position did Golden Richards play?",
+    "options": [
+      "Wide receiver",
+      "Cornerback",
+      "Running back",
+      "Quarterback"
+    ],
+    "answer": "Wide receiver",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Golden Richards caught a TD pass in which Super Bowl?",
+    "options": [
+      "Super Bowl XII",
+      "Super Bowl VI",
+      "Super Bowl X",
+      "Super Bowl V"
+    ],
+    "answer": "Super Bowl XII",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What position did Robert Newhouse play?",
+    "options": [
+      "Fullback",
+      "Halfback",
+      "Tight end",
+      "Guard"
+    ],
+    "answer": "Fullback",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Robert Newhouse threw a famous TD pass in which Super Bowl?",
+    "options": [
+      "Super Bowl XII",
+      "Super Bowl VI",
+      "Super Bowl X",
+      "Super Bowl XIII"
+    ],
+    "answer": "Super Bowl XII",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys quarterback started in Super Bowls V and VI?",
+    "options": [
+      "Craig Morton in V, Staubach in VI",
+      "Staubach in both",
+      "Morton in both",
+      "Meredith in V, Staubach in VI"
+    ],
+    "answer": "Craig Morton in V, Staubach in VI",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Tony Hill's nickname?",
+    "options": [
+      "Thrill",
+      "Lightning",
+      "Flash",
+      "T-Hill"
+    ],
+    "answer": "Thrill",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which undrafted Cowboys WR became a 3-time Pro Bowler in the 1970s-80s?",
+    "options": [
+      "Drew Pearson",
+      "Tony Hill",
+      "Golden Richards",
+      "Butch Johnson"
+    ],
+    "answer": "Drew Pearson",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What jersey number did Herschel Walker wear with the Cowboys?",
+    "options": [
+      "34",
+      "32",
+      "24",
+      "44"
+    ],
+    "answer": "34",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "From which league did the Cowboys originally sign Herschel Walker?",
+    "options": [
+      "USFL",
+      "CFL",
+      "NFL Draft",
+      "Arena Football"
+    ],
+    "answer": "USFL",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many career passing TDs did Tony Romo throw?",
+    "options": [
+      "248",
+      "220",
+      "265",
+      "234"
+    ],
+    "answer": "248",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In what year did Tony Romo first become the Cowboys' starting QB?",
+    "options": [
+      "2006",
+      "2007",
+      "2005",
+      "2008"
+    ],
+    "answer": "2006",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Tony Romo's best season statistically (most passing yards)?",
+    "options": [
+      "2012",
+      "2009",
+      "2014",
+      "2007"
+    ],
+    "answer": "2012",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many career passing yards did Tony Romo have?",
+    "options": [
+      "34,183",
+      "31,456",
+      "36,891",
+      "28,754"
+    ],
+    "answer": "34,183",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What jersey number did Terrell Owens wear with the Cowboys?",
+    "options": [
+      "81",
+      "85",
+      "84",
+      "88"
+    ],
+    "answer": "81",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many seasons did Terrell Owens play for the Cowboys?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": "3",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What year did Terrell Owens join the Cowboys?",
+    "options": [
+      "2006",
+      "2007",
+      "2005",
+      "2008"
+    ],
+    "answer": "2006",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys kicker holds the franchise record for most career points?",
+    "options": [
+      "Dan Bailey",
+      "Rafael Septien",
+      "Eddie Murray",
+      "Chris Boniol"
+    ],
+    "answer": "Dan Bailey",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What college did Travis Frederick attend?",
+    "options": [
+      "Wisconsin",
+      "Iowa",
+      "Michigan",
+      "Ohio State"
+    ],
+    "answer": "Wisconsin",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What forced Travis Frederick to miss the 2018 season?",
+    "options": [
+      "Guillain-Barr\u00e9 syndrome",
+      "Torn ACL",
+      "Neck injury",
+      "Back surgery"
+    ],
+    "answer": "Guillain-Barr\u00e9 syndrome",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What position did Leighton Vander Esch play?",
+    "options": [
+      "Linebacker",
+      "Safety",
+      "Defensive end",
+      "Cornerback"
+    ],
+    "answer": "Linebacker",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What college did Leighton Vander Esch attend?",
+    "options": [
+      "Boise State",
+      "Oregon",
+      "Idaho",
+      "Washington State"
+    ],
+    "answer": "Boise State",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys player was nicknamed 'The Wolf Hunter'?",
+    "options": [
+      "Leighton Vander Esch",
+      "Sean Lee",
+      "Micah Parsons",
+      "Jaylon Smith"
+    ],
+    "answer": "Leighton Vander Esch",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What round was CeeDee Lamb drafted in 2020?",
+    "options": [
+      "1st round",
+      "2nd round",
+      "3rd round",
+      "4th round"
+    ],
+    "answer": "1st round",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What overall pick was CeeDee Lamb?",
+    "options": [
+      "17th",
+      "10th",
+      "22nd",
+      "15th"
+    ],
+    "answer": "17th",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys running back had 1,773 rushing yards as a rookie in 2016?",
+    "options": [
+      "Ezekiel Elliott",
+      "DeMarco Murray",
+      "Tony Pollard",
+      "Darren McFadden"
+    ],
+    "answer": "Ezekiel Elliott",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Ezekiel Elliott's signature celebration?",
+    "options": [
+      "Feeding the crowd (eating gesture)",
+      "Spiking the ball",
+      "Jumping into the stands",
+      "A dance routine"
+    ],
+    "answer": "Feeding the crowd (eating gesture)",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What college did DeMarco Murray attend?",
+    "options": [
+      "Oklahoma",
+      "Texas",
+      "Alabama",
+      "Ohio State"
+    ],
+    "answer": "Oklahoma",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which team did DeMarco Murray sign with after leaving the Cowboys?",
+    "options": [
+      "Philadelphia Eagles",
+      "Tennessee Titans",
+      "Miami Dolphins",
+      "Houston Texans"
+    ],
+    "answer": "Philadelphia Eagles",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What jersey number did DeMarco Murray wear?",
+    "options": [
+      "29",
+      "22",
+      "21",
+      "28"
+    ],
+    "answer": "29",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys punt returner/receiver was nicknamed 'Rocket'?",
+    "options": [
+      "Rocket Ismail",
+      "Deion Sanders",
+      "Kevin Williams",
+      "Kelvin Martin"
+    ],
+    "answer": "Rocket Ismail",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What jersey number did Alvin Harper wear?",
+    "options": [
+      "80",
+      "88",
+      "81",
+      "84"
+    ],
+    "answer": "80",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Alvin Harper's big plays in which NFC Championship helped send the Cowboys to the Super Bowl?",
+    "options": [
+      "1992 NFC Championship vs 49ers",
+      "1993 NFC Championship vs 49ers",
+      "1995 NFC Championship vs Packers",
+      "1994 NFC Championship vs 49ers"
+    ],
+    "answer": "1992 NFC Championship vs 49ers",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What position did Ken Norton Jr. play?",
+    "options": [
+      "Linebacker",
+      "Safety",
+      "Defensive end",
+      "Cornerback"
+    ],
+    "answer": "Linebacker",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Ken Norton Jr. won 3 consecutive Super Bowls with which two teams?",
+    "options": [
+      "Cowboys (XXVII, XXVIII) and 49ers (XXIX)",
+      "Cowboys all three",
+      "49ers all three",
+      "Cowboys and Packers"
+    ],
+    "answer": "Cowboys (XXVII, XXVIII) and 49ers (XXIX)",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What year did the Cowboys first make the playoffs?",
+    "options": [
+      "1966",
+      "1964",
+      "1968",
+      "1970"
+    ],
+    "answer": "1966",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the NFL record for most turnovers forced in a single Super Bowl (held by Cowboys)?",
+    "options": [
+      "9 in Super Bowl XXVII",
+      "7",
+      "5",
+      "11"
+    ],
+    "answer": "9 in Super Bowl XXVII",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many NFC East titles have the Cowboys won?",
+    "options": [
+      "Over 20",
+      "15",
+      "10",
+      "25"
+    ],
+    "answer": "Over 20",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In what year did the Cowboys first appear on Monday Night Football?",
+    "options": [
+      "1970",
+      "1966",
+      "1972",
+      "1975"
+    ],
+    "answer": "1970",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the 'Bounty Bowl'?",
+    "options": [
+      "Jimmy Johnson accused Eagles of bounties on Cowboys (1989)",
+      "A charity game",
+      "A preseason rivalry game",
+      "A game with record-setting scores"
+    ],
+    "answer": "Jimmy Johnson accused Eagles of bounties on Cowboys (1989)",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the 'White House' in 1990s Cowboys lore?",
+    "options": [
+      "A party house rented by several players",
+      "The training facility",
+      "A restaurant",
+      "Jerry Jones' suite"
+    ],
+    "answer": "A party house rented by several players",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many draft picks did the Herschel Walker trade eventually yield for the Cowboys?",
+    "options": [
+      "18",
+      "12",
+      "8",
+      "15"
+    ],
+    "answer": "18",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The Cowboys' 1992 turnaround from 1-15 to Super Bowl champs took how many years?",
+    "options": [
+      "3 years",
+      "2 years",
+      "4 years",
+      "5 years"
+    ],
+    "answer": "3 years",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the Cowboys' record in 1991, the year before their first 90s Super Bowl?",
+    "options": [
+      "11-5",
+      "10-6",
+      "12-4",
+      "9-7"
+    ],
+    "answer": "11-5",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What conference championship did the Cowboys lose to the Packers in the Ice Bowl?",
+    "options": [
+      "1967 NFL Championship",
+      "1966 NFL Championship",
+      "1968 NFC Championship",
+      "1965 NFL Championship"
+    ],
+    "answer": "1967 NFL Championship",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Who scored the winning touchdown for the Packers in the Ice Bowl?",
+    "options": [
+      "Bart Starr",
+      "Chuck Mercein",
+      "Donny Anderson",
+      "Paul Hornung"
+    ],
+    "answer": "Bart Starr",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' overall record in the 1970s?",
+    "options": [
+      "105-39",
+      "95-49",
+      "110-34",
+      "88-56"
+    ],
+    "answer": "105-39",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many times did the Cowboys make the playoffs in the 1970s?",
+    "options": [
+      "8 out of 10 seasons",
+      "6",
+      "9",
+      "7"
+    ],
+    "answer": "8 out of 10 seasons",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Tom Landry's final season as coach?",
+    "options": [
+      "1988",
+      "1987",
+      "1989",
+      "1986"
+    ],
+    "answer": "1988",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The Cowboys went from 1-15 in 1989 to Super Bowl champs by which season?",
+    "options": [
+      "1992",
+      "1991",
+      "1993",
+      "1990"
+    ],
+    "answer": "1992",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who was the first opponent the Cowboys played in 1960?",
+    "options": [
+      "Pittsburgh Steelers",
+      "New York Giants",
+      "Cleveland Browns",
+      "Philadelphia Eagles"
+    ],
+    "answer": "Pittsburgh Steelers",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the famous play where Cowboys and 49ers rivalry peaked in the 1990s?",
+    "options": [
+      "Three NFC Championship meetings in 4 years",
+      "A regular season brawl",
+      "A playoff overtime game",
+      "A trade dispute"
+    ],
+    "answer": "Three NFC Championship meetings in 4 years",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Cowboys defender intercepted Jim Kelly twice in Super Bowl XXVII?",
+    "options": [
+      "Thomas Everett",
+      "Larry Brown",
+      "James Washington",
+      "Kenneth Gant"
+    ],
+    "answer": "Thomas Everett",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What year was the Cowboys' last Super Bowl appearance?",
+    "options": [
+      "1995 season (January 1996)",
+      "1996",
+      "2000",
+      "1993"
+    ],
+    "answer": "1995 season (January 1996)",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The Cowboys had a 20-year streak of winning seasons. When did it end?",
+    "options": [
+      "1986",
+      "1987",
+      "1985",
+      "1988"
+    ],
+    "answer": "1986",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many Hall of Famers have played for the Cowboys?",
+    "options": [
+      "Over 15",
+      "10",
+      "20",
+      "8"
+    ],
+    "answer": "Over 15",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the Cowboys' all-time Thanksgiving Day record?",
+    "options": [
+      "Well over .500 (winning record)",
+      "Around .500",
+      "Below .500",
+      "They've only lost twice"
+    ],
+    "answer": "Well over .500 (winning record)",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which famous Cowboys Thanksgiving game featured a record snowfall in 1993?",
+    "options": [
+      "Cowboys vs. Dolphins",
+      "Cowboys vs. Packers",
+      "Cowboys vs. Bears",
+      "Cowboys vs. Redskins"
+    ],
+    "answer": "Cowboys vs. Dolphins",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' worst season in franchise history?",
+    "options": [
+      "1989 (1-15)",
+      "1960 (0-11-1)",
+      "2000 (5-11)",
+      "2010 (6-10)"
+    ],
+    "answer": "1989 (1-15)",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many points did the Cowboys score in their historic 1992 NFC Championship win?",
+    "options": [
+      "30",
+      "27",
+      "34",
+      "38"
+    ],
+    "answer": "30",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The Cowboys' rivalry with the Redskins/Commanders dates back to what year?",
+    "options": [
+      "1960",
+      "1966",
+      "1970",
+      "1972"
+    ],
+    "answer": "1960",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the Cowboys' record during the 2014 regular season?",
+    "options": [
+      "12-4",
+      "11-5",
+      "13-3",
+      "10-6"
+    ],
+    "answer": "12-4",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys play is known as the 'Immaculate Deception'?",
+    "options": [
+      "Drew Pearson's controversial Hail Mary catch",
+      "Leon Lett's fumble",
+      "Dez Bryant's catch/no-catch",
+      "Romo's botched snap"
+    ],
+    "answer": "Drew Pearson's controversial Hail Mary catch",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What controversial penalty was called on the Vikings after Drew Pearson's Hail Mary catch?",
+    "options": [
+      "None \u2014 no penalty was called despite controversy",
+      "Pass interference on Pearson",
+      "Offensive holding",
+      "Illegal formation"
+    ],
+    "answer": "None \u2014 no penalty was called despite controversy",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In what year did the Cowboys win their 5th and most recent Super Bowl?",
+    "options": [
+      "1995 season",
+      "1996 season",
+      "1994 season",
+      "1993 season"
+    ],
+    "answer": "1995 season",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the longest drought without a Super Bowl appearance for the Cowboys?",
+    "options": [
+      "Since 1995 season (over 25+ years)",
+      "Since 2000",
+      "Since 2007",
+      "Since 1993"
+    ],
+    "answer": "Since 1995 season (over 25+ years)",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What caused the famous Jimmy Johnson-Jerry Jones rift?",
+    "options": [
+      "Dispute over who deserved credit for the dynasty",
+      "Contract disagreement",
+      "Johnson wanting to coach another team",
+      "Personal family conflict"
+    ],
+    "answer": "Dispute over who deserved credit for the dynasty",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Where did the infamous Jimmy Johnson-Jerry Jones confrontation take place?",
+    "options": [
+      "A bar at the NFL owners meetings",
+      "Texas Stadium",
+      "Valley Ranch",
+      "Jerry Jones' office"
+    ],
+    "answer": "A bar at the NFL owners meetings",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is Jerry Jones' signature phrase about the Cowboys?",
+    "options": [
+      "'We're going to win the Super Bowl'",
+      "'America's Team'",
+      "'It's all about winning'",
+      "'This is my team'"
+    ],
+    "answer": "'We're going to win the Super Bowl'",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys game is nicknamed the 'Mud Bowl'?",
+    "options": [
+      "1975 NFC Championship vs Rams",
+      "1967 Ice Bowl",
+      "1970 NFC Championship",
+      "1982 NFC Wild Card"
+    ],
+    "answer": "1975 NFC Championship vs Rams",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was notable about the 2023 Cowboys playoff loss?",
+    "options": [
+      "48-32 blowout loss to Packers at home",
+      "A last-second field goal loss",
+      "A controversial penalty",
+      "An overtime loss"
+    ],
+    "answer": "48-32 blowout loss to Packers at home",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Cowboys coach had the nickname 'Coach Clapper' for clapping?",
+    "options": [
+      "Jason Garrett",
+      "Wade Phillips",
+      "Mike McCarthy",
+      "Bill Parcells"
+    ],
+    "answer": "Jason Garrett",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What years did Barry Switzer coach the Cowboys?",
+    "options": [
+      "1994-1997",
+      "1993-1996",
+      "1994-1998",
+      "1995-1998"
+    ],
+    "answer": "1994-1997",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was Cowboys head coach from 2000-2002?",
+    "options": [
+      "Dave Campo",
+      "Chan Gailey",
+      "Bill Parcells",
+      "Mike Zimmer"
+    ],
+    "answer": "Dave Campo",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Dave Campo's overall record as Cowboys coach?",
+    "options": [
+      "15-33",
+      "18-30",
+      "21-27",
+      "12-36"
+    ],
+    "answer": "15-33",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many seasons did Bill Parcells coach the Cowboys?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer": "4",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What year did Tom Landry pass away?",
+    "options": [
+      "2000",
+      "1999",
+      "2001",
+      "1998"
+    ],
+    "answer": "2000",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Jimmy Johnson won a college national championship at Miami in what year?",
+    "options": [
+      "1987",
+      "1985",
+      "1989",
+      "1986"
+    ],
+    "answer": "1987",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was Cowboys head coach from 1998-1999?",
+    "options": [
+      "Chan Gailey",
+      "Dave Campo",
+      "Bill Parcells",
+      "Wade Phillips"
+    ],
+    "answer": "Chan Gailey",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many full seasons did Jason Garrett coach the Cowboys?",
+    "options": [
+      "9",
+      "7",
+      "8",
+      "10"
+    ],
+    "answer": "9",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How did Jerry Jones inform Tom Landry he was being replaced?",
+    "options": [
+      "Met him personally",
+      "Sent a letter",
+      "Held a press conference first",
+      "Called on the phone"
+    ],
+    "answer": "Met him personally",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys coach had a 13-3 regular season record in 2007?",
+    "options": [
+      "Wade Phillips",
+      "Jason Garrett",
+      "Bill Parcells",
+      "Mike McCarthy"
+    ],
+    "answer": "Wade Phillips",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Tom Landry's win-loss record with the Cowboys?",
+    "options": [
+      "250-162-6",
+      "220-178-8",
+      "270-150-4",
+      "240-170-6"
+    ],
+    "answer": "250-162-6",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys defensive coordinator in the 2010s became a highly sought-after coordinator around the NFL?",
+    "options": [
+      "Dan Quinn",
+      "Rod Marinelli",
+      "Monte Kiffin",
+      "Mike Nolan"
+    ],
+    "answer": "Dan Quinn",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Dan Quinn served as Cowboys DC before becoming head coach of which team?",
+    "options": [
+      "He was already a former Falcons HC before coming to Dallas",
+      "He left to coach the Bears",
+      "He left to coach the Commanders",
+      "He returned to the Falcons"
+    ],
+    "answer": "He was already a former Falcons HC before coming to Dallas",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the Cowboys' first offensive coordinator under Jimmy Johnson?",
+    "options": [
+      "David Shula",
+      "Norv Turner",
+      "Ernie Zampese",
+      "Kevin Gilbride"
+    ],
+    "answer": "David Shula",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys assistant coach went on to become Miami Dolphins head coach?",
+    "options": [
+      "Dave Wannstedt",
+      "Norv Turner",
+      "Dan Reeves",
+      "Butch Davis"
+    ],
+    "answer": "Dave Wannstedt",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Mike McCarthy's first season record with the Cowboys in 2020?",
+    "options": [
+      "6-10",
+      "7-9",
+      "4-12",
+      "8-8"
+    ],
+    "answer": "6-10",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many years was Texas Stadium open?",
+    "options": [
+      "38 years (1971-2008)",
+      "35 years",
+      "40 years",
+      "30 years"
+    ],
+    "answer": "38 years (1971-2008)",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the length of AT&T Stadium's video board?",
+    "options": [
+      "160 feet",
+      "120 feet",
+      "200 feet",
+      "100 feet"
+    ],
+    "answer": "160 feet",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In what year was 'The Star' in Frisco opened?",
+    "options": [
+      "2016",
+      "2014",
+      "2018",
+      "2020"
+    ],
+    "answer": "2016",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What year was AT&T Stadium renamed from Cowboys Stadium?",
+    "options": [
+      "2013",
+      "2011",
+      "2015",
+      "2009"
+    ],
+    "answer": "2013",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the seating capacity of Texas Stadium?",
+    "options": [
+      "About 65,000",
+      "About 80,000",
+      "About 50,000",
+      "About 72,000"
+    ],
+    "answer": "About 65,000",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "AT&T Stadium features end zone doors that are how tall?",
+    "options": [
+      "120 feet",
+      "80 feet",
+      "150 feet",
+      "60 feet"
+    ],
+    "answer": "120 feet",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Texas Stadium was demolished on what date?",
+    "options": [
+      "April 11, 2010",
+      "January 1, 2010",
+      "December 31, 2009",
+      "March 15, 2011"
+    ],
+    "answer": "April 11, 2010",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the first NFL game played at AT&T Stadium?",
+    "options": [
+      "Cowboys vs. Giants preseason 2009",
+      "Cowboys vs. Titans regular season",
+      "Super Bowl XLV",
+      "Cowboys vs. Steelers"
+    ],
+    "answer": "Cowboys vs. Giants preseason 2009",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the architect of AT&T Stadium?",
+    "options": [
+      "HKS Inc.",
+      "HOK Sport",
+      "Populous",
+      "Gensler"
+    ],
+    "answer": "HKS Inc.",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' final game at Texas Stadium?",
+    "options": [
+      "Loss to Ravens, December 2008",
+      "Win over Eagles",
+      "Loss to Giants",
+      "Win over Redskins"
+    ],
+    "answer": "Loss to Ravens, December 2008",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The Cotton Bowl hosted which annual college football rivalry game?",
+    "options": [
+      "Texas vs. Oklahoma (Red River Rivalry)",
+      "Army vs. Navy",
+      "Ohio State vs. Michigan",
+      "Alabama vs. Auburn"
+    ],
+    "answer": "Texas vs. Oklahoma (Red River Rivalry)",
+    "category": "Stadiums",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the official capacity of the Cotton Bowl when the Cowboys played there?",
+    "options": [
+      "About 75,500",
+      "About 50,000",
+      "About 65,000",
+      "About 80,000"
+    ],
+    "answer": "About 75,500",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "AT&T Stadium has hosted how many Final Four NCAA basketball tournaments?",
+    "options": [
+      "Multiple (3+)",
+      "1",
+      "2",
+      "0"
+    ],
+    "answer": "Multiple (3+)",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the Cowboys' record at AT&T Stadium in playoff games?",
+    "options": [
+      "Below .500",
+      "Above .500",
+      "Even",
+      "They've won every home playoff game"
+    ],
+    "answer": "Below .500",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which major boxing event was held at Cowboys Stadium in 2010?",
+    "options": [
+      "Pacquiao vs. Clottey",
+      "Mayweather vs. Pacquiao",
+      "Canelo vs. GGG",
+      "Tyson vs. Holyfield"
+    ],
+    "answer": "Pacquiao vs. Clottey",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What year did the Cotton Bowl undergo its major renovation?",
+    "options": [
+      "2008",
+      "2005",
+      "2010",
+      "2012"
+    ],
+    "answer": "2008",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The Cowboys' practice bubble at The Star is named what?",
+    "options": [
+      "Ford Center at The Star",
+      "Jerry's Bubble",
+      "The Star Dome",
+      "Cowboys Practice Center"
+    ],
+    "answer": "Ford Center at The Star",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How far is AT&T Stadium from downtown Dallas?",
+    "options": [
+      "About 20 miles",
+      "About 5 miles",
+      "About 35 miles",
+      "About 10 miles"
+    ],
+    "answer": "About 20 miles",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "AT&T Stadium can host concerts. What artist set the attendance record there?",
+    "options": [
+      "George Strait (over 104,000)",
+      "Taylor Swift",
+      "Beyonce",
+      "Kenny Chesney"
+    ],
+    "answer": "George Strait (over 104,000)",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What Super Bowl did the Cowboys lose that was nicknamed the 'Blunder Bowl'?",
+    "options": [
+      "Super Bowl V",
+      "Super Bowl X",
+      "Super Bowl XIII",
+      "Super Bowl VI"
+    ],
+    "answer": "Super Bowl V",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many combined turnovers were there in Super Bowl V?",
+    "options": [
+      "11",
+      "7",
+      "9",
+      "5"
+    ],
+    "answer": "11",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who kicked the game-winning field goal in Super Bowl V for the Colts?",
+    "options": [
+      "Jim O'Brien",
+      "Lou Michaels",
+      "Garo Yepremian",
+      "Don Cockroft"
+    ],
+    "answer": "Jim O'Brien",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many Super Bowls did Roger Staubach start as quarterback?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answer": "4",
+    "category": "Super Bowls",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Roger Staubach's record as a Super Bowl starting quarterback?",
+    "options": [
+      "2-2",
+      "3-1",
+      "1-3",
+      "2-1"
+    ],
+    "answer": "2-2",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys player scored on a 48-yard fumble return in Super Bowl XII?",
+    "options": [
+      "Butch Johnson",
+      "Randy White",
+      "Aaron Kyle",
+      "Thomas Henderson"
+    ],
+    "answer": "Butch Johnson",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many interceptions did the Cowboys defense have in Super Bowl XII?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answer": "4",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The Cowboys have appeared in more Super Bowls than any other NFC team except which team?",
+    "options": [
+      "They are tied or lead the NFC",
+      "San Francisco 49ers",
+      "Green Bay Packers",
+      "New York Giants"
+    ],
+    "answer": "They are tied or lead the NFC",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many passing yards did Roger Staubach have in Super Bowl VI?",
+    "options": [
+      "119",
+      "183",
+      "245",
+      "89"
+    ],
+    "answer": "119",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Troy Aikman's passer rating in Super Bowl XXVII?",
+    "options": [
+      "140.7",
+      "118.5",
+      "132.6",
+      "109.9"
+    ],
+    "answer": "140.7",
+    "category": "Super Bowls",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What jersey number did Craig Morton wear?",
+    "options": [
+      "14",
+      "12",
+      "17",
+      "8"
+    ],
+    "answer": "14",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys QB also played in a Super Bowl for the Denver Broncos?",
+    "options": [
+      "Craig Morton",
+      "Danny White",
+      "Roger Staubach",
+      "Gary Hogeboom"
+    ],
+    "answer": "Craig Morton",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What position did Jethro Pugh play?",
+    "options": [
+      "Defensive tackle",
+      "Defensive end",
+      "Linebacker",
+      "Nose tackle"
+    ],
+    "answer": "Defensive tackle",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys player blocked the Packers' last-second field goal attempt in the 1970 NFC Championship?",
+    "options": [
+      "George Andrie",
+      "Bob Lilly",
+      "Jethro Pugh",
+      "Larry Cole"
+    ],
+    "answer": "George Andrie",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What position did George Andrie play?",
+    "options": [
+      "Defensive end",
+      "Linebacker",
+      "Defensive tackle",
+      "Safety"
+    ],
+    "answer": "Defensive end",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the Cowboys' starting center during the 1990s dynasty?",
+    "options": [
+      "Mark Stepnoski",
+      "Nate Newton",
+      "Kevin Gogan",
+      "Dale Hellestrae"
+    ],
+    "answer": "Mark Stepnoski",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys WR caught 2 TDs in Super Bowl XXX?",
+    "options": [
+      "Michael Irvin",
+      "Deion Sanders",
+      "Kevin Williams",
+      "Alvin Harper"
+    ],
+    "answer": "Michael Irvin",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What position did Cornell Green play?",
+    "options": [
+      "Safety/Cornerback",
+      "Wide receiver",
+      "Linebacker",
+      "Running back"
+    ],
+    "answer": "Safety/Cornerback",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What sport did Cornell Green play in college before switching to football?",
+    "options": [
+      "Basketball",
+      "Baseball",
+      "Track",
+      "Soccer"
+    ],
+    "answer": "Basketball",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys kicker made 5 field goals in a single playoff game?",
+    "options": [
+      "Chris Boniol",
+      "Dan Bailey",
+      "Rafael Septien",
+      "Eddie Murray"
+    ],
+    "answer": "Chris Boniol",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the Cowboys' first 1,000-yard receiver?",
+    "options": [
+      "Bob Hayes",
+      "Drew Pearson",
+      "Tony Hill",
+      "Lance Rentzel"
+    ],
+    "answer": "Bob Hayes",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What position did Charlie Waters play?",
+    "options": [
+      "Safety",
+      "Cornerback",
+      "Linebacker",
+      "Wide receiver"
+    ],
+    "answer": "Safety",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Charlie Waters and Cliff Harris formed one of the best safety tandems in the 1970s. How many combined Pro Bowls did they earn?",
+    "options": [
+      "10",
+      "8",
+      "12",
+      "6"
+    ],
+    "answer": "10",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys player appeared on Dancing with the Stars?",
+    "options": [
+      "Emmitt Smith",
+      "Troy Aikman",
+      "Michael Irvin",
+      "Tony Romo"
+    ],
+    "answer": "Emmitt Smith",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Did Emmitt Smith win Dancing with the Stars?",
+    "options": [
+      "Yes \u2014 Season 3",
+      "No \u2014 he finished 2nd",
+      "No \u2014 he was eliminated early",
+      "Yes \u2014 Season 5"
+    ],
+    "answer": "Yes \u2014 Season 3",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What jersey number did Marion Barber III wear?",
+    "options": [
+      "24",
+      "22",
+      "34",
+      "21"
+    ],
+    "answer": "24",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Marion Barber III's nickname?",
+    "options": [
+      "Marion the Barbarian",
+      "The Tank",
+      "Barber Shop",
+      "The Blade"
+    ],
+    "answer": "Marion the Barbarian",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys receiver wore #17 and had over 1,000 yards in 2007?",
+    "options": [
+      "Terry Glenn",
+      "Patrick Crayton",
+      "Sam Hurd",
+      "Miles Austin"
+    ],
+    "answer": "Terry Glenn",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What position did Roy Williams play (the receiver)?",
+    "options": [
+      "Wide receiver",
+      "Safety",
+      "Cornerback",
+      "Tight end"
+    ],
+    "answer": "Wide receiver",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "From which team did the Cowboys trade for Roy Williams?",
+    "options": [
+      "Detroit Lions",
+      "Chicago Bears",
+      "Tampa Bay Buccaneers",
+      "Green Bay Packers"
+    ],
+    "answer": "Detroit Lions",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the name of the Cowboys' Ring of Honor member who was a long snapper and special teamer?",
+    "options": [
+      "Bill Bates",
+      "Dale Hellestrae",
+      "LP Ladouceur",
+      "Mark Tuinei"
+    ],
+    "answer": "Bill Bates",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys player was known for the 'X' celebration?",
+    "options": [
+      "Dez Bryant",
+      "Michael Irvin",
+      "Terrell Owens",
+      "CeeDee Lamb"
+    ],
+    "answer": "Dez Bryant",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What jersey number did Sean Lee wear?",
+    "options": [
+      "50",
+      "54",
+      "55",
+      "56"
+    ],
+    "answer": "50",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Cowboys punter was known as one of the best in the 2000s?",
+    "options": [
+      "Mat McBriar",
+      "Toby Gowin",
+      "Chris Jones",
+      "Bryan Anger"
+    ],
+    "answer": "Mat McBriar",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What jersey number did DeMarcus Lawrence wear?",
+    "options": [
+      "90",
+      "94",
+      "97",
+      "93"
+    ],
+    "answer": "90",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What college did DeMarcus Lawrence attend?",
+    "options": [
+      "Boise State",
+      "Oregon",
+      "Arizona State",
+      "Colorado"
+    ],
+    "answer": "Boise State",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys running back was drafted in the 4th round in 2019?",
+    "options": [
+      "Tony Pollard",
+      "Rico Dowdle",
+      "Malik Davis",
+      "Ezekiel Elliott"
+    ],
+    "answer": "Tony Pollard",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What college did Tony Pollard attend?",
+    "options": [
+      "Memphis",
+      "Tennessee",
+      "Mississippi State",
+      "Alabama"
+    ],
+    "answer": "Memphis",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the most points scored by the Cowboys in a single game?",
+    "options": [
+      "56",
+      "52",
+      "59",
+      "63"
+    ],
+    "answer": "56",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many Cowboys players have won the NFL MVP award?",
+    "options": [
+      "3 (Meredith, Staubach, E. Smith)",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": "3 (Meredith, Staubach, E. Smith)",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Don Meredith won NFL MVP in what year?",
+    "options": [
+      "1966",
+      "1965",
+      "1967",
+      "1968"
+    ],
+    "answer": "1966",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Roger Staubach won NFL MVP in what year?",
+    "options": [
+      "1971",
+      "1973",
+      "1975",
+      "1977"
+    ],
+    "answer": "1971",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the 'Hail Mary' originally called before it became common football terminology?",
+    "options": [
+      "Roger Staubach coined the term himself",
+      "It was called 'the bomb'",
+      "It was called 'the long pass'",
+      "It was called 'the prayer'"
+    ],
+    "answer": "Roger Staubach coined the term himself",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many career wins do the Cowboys have on Thanksgiving (through 2025)?",
+    "options": [
+      "Over 30",
+      "About 20",
+      "Over 40",
+      "About 15"
+    ],
+    "answer": "Over 30",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys QB threw for a record 5 TDs on Thanksgiving 2006?",
+    "options": [
+      "Tony Romo",
+      "Drew Bledsoe",
+      "Troy Aikman",
+      "Quincy Carter"
+    ],
+    "answer": "Tony Romo",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The Cowboys' famous 'triplets' era began in what draft year?",
+    "options": [
+      "1989 (Aikman drafted)",
+      "1990 (Smith drafted)",
+      "1988 (Irvin drafted)",
+      "1991"
+    ],
+    "answer": "1988 (Irvin drafted)",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What year was Michael Irvin drafted?",
+    "options": [
+      "1988",
+      "1989",
+      "1990",
+      "1987"
+    ],
+    "answer": "1988",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the Cowboys' practice squad innovation in the 1960s?",
+    "options": [
+      "They pioneered computer scouting and analysis",
+      "They created the first practice squad",
+      "They used film analysis first",
+      "They invented the playbook binder"
+    ],
+    "answer": "They pioneered computer scouting and analysis",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Tex Schramm helped create which major NFL event?",
+    "options": [
+      "The Pro Bowl in Hawaii",
+      "Monday Night Football",
+      "The NFL Draft",
+      "The Scouting Combine"
+    ],
+    "answer": "Monday Night Football",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Tex Schramm also helped establish what officiating innovation?",
+    "options": [
+      "The instant replay system",
+      "The two-minute warning",
+      "The referee microphone",
+      "The chain gang measurement"
+    ],
+    "answer": "The instant replay system",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' home record during the 2016 season?",
+    "options": [
+      "8-0",
+      "7-1",
+      "6-2",
+      "5-3"
+    ],
+    "answer": "8-0",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which NFL record did Dak Prescott set as a rookie in 2016?",
+    "options": [
+      "Most consecutive passes without an interception to start career",
+      "Most wins by a rookie QB",
+      "Highest passer rating for a rookie",
+      "Most rushing TDs by a rookie QB"
+    ],
+    "answer": "Most consecutive passes without an interception to start career",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The Cowboys once had the longest home winning streak in the NFL at how many games?",
+    "options": [
+      "18",
+      "15",
+      "20",
+      "12"
+    ],
+    "answer": "18",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' record in 1993, the year they won their 2nd consecutive Super Bowl?",
+    "options": [
+      "12-4",
+      "13-3",
+      "11-5",
+      "10-6"
+    ],
+    "answer": "12-4",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the Cowboys' kicker during the 1990s Super Bowl runs?",
+    "options": [
+      "Eddie Murray",
+      "Chris Boniol",
+      "Lin Elliott",
+      "Jason Hanson"
+    ],
+    "answer": "Eddie Murray",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the final score of the 1992 NFC Championship (Cowboys vs 49ers)?",
+    "options": [
+      "30-20",
+      "38-21",
+      "27-17",
+      "34-28"
+    ],
+    "answer": "30-20",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys victory in 1999 became known as 'The Last Hurrah' of the 90s dynasty era?",
+    "options": [
+      "Wild Card win over Vikings",
+      "NFC Championship appearance",
+      "Divisional round win over Packers",
+      "Regular season win over Redskins"
+    ],
+    "answer": "Wild Card win over Vikings",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Jason Garrett's career coaching record with the Cowboys?",
+    "options": [
+      "85-67",
+      "78-72",
+      "92-60",
+      "70-80"
+    ],
+    "answer": "85-67",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys head coach went 0-2 in NFC Championship games?",
+    "options": [
+      "Danny White led Cowboys that lost \u2014 under Tom Landry",
+      "Jimmy Johnson",
+      "Jason Garrett",
+      "Wade Phillips"
+    ],
+    "answer": "Danny White led Cowboys that lost \u2014 under Tom Landry",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the Cowboys' interim head coach for one game in 1988 after Landry's firing?",
+    "options": [
+      "No interim \u2014 Johnson was immediately named",
+      "There was no interim coach",
+      "Ernie Stautner served briefly",
+      "Paul Hackett"
+    ],
+    "answer": "No interim \u2014 Johnson was immediately named",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys coach had the best winning percentage in franchise history (min 2 seasons)?",
+    "options": [
+      "Jimmy Johnson",
+      "Tom Landry",
+      "Barry Switzer",
+      "Mike McCarthy"
+    ],
+    "answer": "Jimmy Johnson",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Jimmy Johnson's overall record with the Cowboys?",
+    "options": [
+      "44-36",
+      "52-28",
+      "38-42",
+      "48-32"
+    ],
+    "answer": "44-36",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "After leaving the Cowboys, Jimmy Johnson coached which NFL team?",
+    "options": [
+      "Miami Dolphins",
+      "Jacksonville Jaguars",
+      "Tampa Bay Buccaneers",
+      "Atlanta Falcons"
+    ],
+    "answer": "Miami Dolphins",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Tom Landry was inducted into the Pro Football Hall of Fame in what year?",
+    "options": [
+      "1990",
+      "1988",
+      "1992",
+      "1995"
+    ],
+    "answer": "1990",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many NFC Championship games did Tom Landry's Cowboys reach?",
+    "options": [
+      "12",
+      "10",
+      "8",
+      "14"
+    ],
+    "answer": "12",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys defensive coordinator under Jason Garrett went on to be a successful DC elsewhere?",
+    "options": [
+      "Rod Marinelli",
+      "Monte Kiffin",
+      "Rob Ryan",
+      "Mike Nolan"
+    ],
+    "answer": "Rod Marinelli",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Bill Parcells' final record with the Cowboys was what?",
+    "options": [
+      "34-32",
+      "38-28",
+      "30-36",
+      "36-30"
+    ],
+    "answer": "34-32",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many acres does 'The Star' complex in Frisco cover?",
+    "options": [
+      "91 acres",
+      "50 acres",
+      "120 acres",
+      "75 acres"
+    ],
+    "answer": "91 acres",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What indoor practice facility is located at The Star?",
+    "options": [
+      "Ford Center",
+      "The Atrium",
+      "Cowboys Center",
+      "Star Dome"
+    ],
+    "answer": "Ford Center",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' first win at AT&T Stadium in the regular season?",
+    "options": [
+      "A win over the Tampa Bay Buccaneers in 2009",
+      "A win over the Giants",
+      "A win over the Eagles",
+      "A win over the Redskins"
+    ],
+    "answer": "A win over the Tampa Bay Buccaneers in 2009",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How wide is the AT&T Stadium video board?",
+    "options": [
+      "72 feet",
+      "60 feet",
+      "80 feet",
+      "50 feet"
+    ],
+    "answer": "72 feet",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What year did the Cotton Bowl first open?",
+    "options": [
+      "1930",
+      "1937",
+      "1940",
+      "1950"
+    ],
+    "answer": "1930",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Texas Stadium opened on October 24, 1971 with a game against which team?",
+    "options": [
+      "New England Patriots",
+      "New York Giants",
+      "St. Louis Cardinals",
+      "Washington Redskins"
+    ],
+    "answer": "New England Patriots",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the first event held at AT&T Stadium?",
+    "options": [
+      "A country music concert by George Strait",
+      "The Cowboys' first preseason game",
+      "A soccer match",
+      "A college football game"
+    ],
+    "answer": "A country music concert by George Strait",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "AT&T Stadium hosted the NCAA Final Four in what year for the first time?",
+    "options": [
+      "2014",
+      "2011",
+      "2016",
+      "2013"
+    ],
+    "answer": "2014",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What material makes up the roof of AT&T Stadium?",
+    "options": [
+      "Two large retractable steel arches",
+      "A single dome structure",
+      "Fabric panels",
+      "Glass panels"
+    ],
+    "answer": "Two large retractable steel arches",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys game at Texas Stadium drew the highest attendance?",
+    "options": [
+      "The final game vs Ravens in 2008",
+      "Super Bowl parties",
+      "Thanksgiving games",
+      "A regular season game in 1995"
+    ],
+    "answer": "The final game vs Ravens in 2008",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What year did the Cowboys draft their first Heisman Trophy winner?",
+    "options": [
+      "1977 (Tony Dorsett)",
+      "1989 (Troy Aikman)",
+      "1964 (Roger Staubach)",
+      "1990 (Emmitt Smith)"
+    ],
+    "answer": "1977 (Tony Dorsett)",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys player is a member of both the Pro Football and College Football Hall of Fame?",
+    "options": [
+      "Tony Dorsett",
+      "Roger Staubach",
+      "Troy Aikman",
+      "Bob Hayes"
+    ],
+    "answer": "Tony Dorsett",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What position did Mark Tuinei play?",
+    "options": [
+      "Offensive tackle",
+      "Defensive end",
+      "Center",
+      "Guard"
+    ],
+    "answer": "Offensive tackle",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys receiver had a game-winning catch against the Giants in 2009?",
+    "options": [
+      "Miles Austin",
+      "Patrick Crayton",
+      "Roy Williams",
+      "Sam Hurd"
+    ],
+    "answer": "Miles Austin",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Erik Williams known for on the offensive line?",
+    "options": [
+      "Being one of the most dominant run blockers ever",
+      "His speed",
+      "His longevity",
+      "His pass blocking only"
+    ],
+    "answer": "Being one of the most dominant run blockers ever",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys QB threw for 400+ yards in his first career start?",
+    "options": [
+      "Tony Romo",
+      "Dak Prescott",
+      "Quincy Carter",
+      "Drew Henson"
+    ],
+    "answer": "Tony Romo",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What year did Jason Witten retire for the first time?",
+    "options": [
+      "2018",
+      "2017",
+      "2019",
+      "2020"
+    ],
+    "answer": "2018",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What TV job did Jason Witten take during his brief retirement?",
+    "options": [
+      "Monday Night Football analyst",
+      "CBS broadcaster",
+      "Fox analyst",
+      "NFL Network host"
+    ],
+    "answer": "Monday Night Football analyst",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Did Jason Witten return to play after his broadcast stint?",
+    "options": [
+      "Yes \u2014 returned for 2019 season",
+      "No",
+      "Yes \u2014 returned for 2020",
+      "Yes \u2014 but for another team"
+    ],
+    "answer": "Yes \u2014 returned for 2019 season",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Cowboys player holds the record for most games played in franchise history?",
+    "options": [
+      "Jason Witten",
+      "Ed Jones",
+      "Bill Bates",
+      "Mark Tuinei"
+    ],
+    "answer": "Jason Witten",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many consecutive games did Jason Witten play for the Cowboys?",
+    "options": [
+      "239",
+      "200",
+      "181",
+      "256"
+    ],
+    "answer": "239",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What jersey number did Quincy Carter wear?",
+    "options": [
+      "17",
+      "7",
+      "12",
+      "9"
+    ],
+    "answer": "17",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What college did Quincy Carter attend?",
+    "options": [
+      "Georgia",
+      "Florida",
+      "Alabama",
+      "Auburn"
+    ],
+    "answer": "Georgia",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys receiver had a famous helmet catch while sliding in 2014?",
+    "options": [
+      "Dez Bryant",
+      "Terrance Williams",
+      "Cole Beasley",
+      "Devin Street"
+    ],
+    "answer": "Dez Bryant",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Cole Beasley's primary role with the Cowboys was what?",
+    "options": [
+      "Slot receiver and punt returner",
+      "Outside receiver",
+      "Tight end",
+      "Running back"
+    ],
+    "answer": "Slot receiver and punt returner",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What jersey number did Cole Beasley wear?",
+    "options": [
+      "11",
+      "12",
+      "19",
+      "5"
+    ],
+    "answer": "11",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys defensive tackle was a 1st-round pick in 2019?",
+    "options": [
+      "Trysten Hill",
+      "Neville Gallimore",
+      "Osa Odighizuwa",
+      "Maliek Collins"
+    ],
+    "answer": "Trysten Hill",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What position did Greg Ellis play for the Cowboys?",
+    "options": [
+      "Defensive end/Linebacker",
+      "Cornerback",
+      "Safety",
+      "Offensive tackle"
+    ],
+    "answer": "Defensive end/Linebacker",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the Cowboys' first-round pick in 2021?",
+    "options": [
+      "Micah Parsons",
+      "Patrick Surtain II",
+      "Jaycee Horn",
+      "Kyle Pitts"
+    ],
+    "answer": "Micah Parsons",
+    "category": "Players",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What overall pick was Micah Parsons in 2021?",
+    "options": [
+      "12th",
+      "10th",
+      "15th",
+      "8th"
+    ],
+    "answer": "12th",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' record in 2003, Bill Parcells' first season?",
+    "options": [
+      "10-6",
+      "8-8",
+      "7-9",
+      "11-5"
+    ],
+    "answer": "10-6",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Did the Cowboys make the playoffs in Parcells' first season (2003)?",
+    "options": [
+      "Yes",
+      "No",
+      "They were eliminated in tiebreakers",
+      "They made it as a wild card"
+    ],
+    "answer": "Yes",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' winning margin in the 1992 NFC Championship over the 49ers?",
+    "options": [
+      "10 points (30-20)",
+      "14 points",
+      "7 points",
+      "17 points"
+    ],
+    "answer": "10 points (30-20)",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many regular season games have the Cowboys won all-time (approximately through 2025)?",
+    "options": [
+      "Over 550",
+      "Over 400",
+      "Over 600",
+      "Over 500"
+    ],
+    "answer": "Over 550",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The Cowboys played in how many conference/NFC Championship games total?",
+    "options": [
+      "Over 15",
+      "10",
+      "20",
+      "8"
+    ],
+    "answer": "Over 15",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' record under Barry Switzer?",
+    "options": [
+      "40-24",
+      "45-19",
+      "35-29",
+      "48-16"
+    ],
+    "answer": "40-24",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In what year did the Cowboys start using the blue star logo?",
+    "options": [
+      "1964",
+      "1960",
+      "1967",
+      "1970"
+    ],
+    "answer": "1964",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The Cowboys' original logo in 1960 was what?",
+    "options": [
+      "A simple blue star without a border",
+      "The Texas state flag",
+      "A cowboy on horseback",
+      "The same star used today"
+    ],
+    "answer": "A simple blue star without a border",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who was the Cowboys' GM before Jerry Jones took over?",
+    "options": [
+      "Tex Schramm held that role",
+      "Gil Brandt",
+      "Tom Landry",
+      "There was no official GM"
+    ],
+    "answer": "Tex Schramm held that role",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' regular season record in 1995 when they won their last Super Bowl?",
+    "options": [
+      "12-4",
+      "11-5",
+      "13-3",
+      "10-6"
+    ],
+    "answer": "12-4",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys QB was released before the 2004 season due to off-field issues?",
+    "options": [
+      "Quincy Carter",
+      "Drew Henson",
+      "Chad Hutchinson",
+      "Clint Stoerner"
+    ],
+    "answer": "Quincy Carter",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' 2021 regular season record?",
+    "options": [
+      "12-5",
+      "11-6",
+      "13-4",
+      "10-7"
+    ],
+    "answer": "12-5",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many points did the Cowboys score in the 2021 season (regular season)?",
+    "options": [
+      "530",
+      "490",
+      "450",
+      "510"
+    ],
+    "answer": "530",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was significant about the Cowboys' 2021 defense?",
+    "options": [
+      "They led the NFL in takeaways with 34",
+      "They had the fewest points allowed",
+      "They had the most sacks",
+      "They set a record for defensive TDs"
+    ],
+    "answer": "They led the NFL in takeaways with 34",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys game in 2022 featured a Thanksgiving blowout?",
+    "options": [
+      "56-14 win over Washington Commanders",
+      "49-29 win over Colts",
+      "42-10 win over Vikings",
+      "38-3 win over Bears"
+    ],
+    "answer": "56-14 win over Washington Commanders",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' record in the 2022 regular season?",
+    "options": [
+      "12-5",
+      "13-4",
+      "11-6",
+      "10-7"
+    ],
+    "answer": "12-5",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Barry Switzer's overall record as Cowboys coach was what?",
+    "options": [
+      "40-24",
+      "45-19",
+      "35-29",
+      "48-16"
+    ],
+    "answer": "40-24",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What coaching innovation is Tom Landry credited with besides the 4-3 and shotgun?",
+    "options": [
+      "The flex defense",
+      "The zone blitz",
+      "The prevent defense",
+      "The cover-2"
+    ],
+    "answer": "The flex defense",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Cowboys coordinator became head coach of the Cleveland Browns?",
+    "options": [
+      "Butch Davis",
+      "Norv Turner",
+      "Dave Wannstedt",
+      "Chan Gailey"
+    ],
+    "answer": "Butch Davis",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who served as Cowboys defensive coordinator under Mike McCarthy in 2020?",
+    "options": [
+      "Mike Nolan",
+      "Dan Quinn",
+      "Rod Marinelli",
+      "Paul Pasqualoni"
+    ],
+    "answer": "Mike Nolan",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who replaced Mike Nolan as Cowboys DC in 2021?",
+    "options": [
+      "Dan Quinn",
+      "Rod Marinelli",
+      "Joe Whitt Jr.",
+      "George Edwards"
+    ],
+    "answer": "Dan Quinn",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many seasons did Wade Phillips coach the Cowboys (including partial)?",
+    "options": [
+      "4 (2007-2010)",
+      "3",
+      "5",
+      "2"
+    ],
+    "answer": "4 (2007-2010)",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was Wade Phillips' best season with the Cowboys?",
+    "options": [
+      "2007 (13-3)",
+      "2008 (9-7)",
+      "2009 (11-5)",
+      "2010 (1-7 before firing)"
+    ],
+    "answer": "2007 (13-3)",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What round did the Cowboys lose in during the 2007 playoffs (13-3 season)?",
+    "options": [
+      "Divisional round (lost to Giants)",
+      "Wild Card",
+      "NFC Championship",
+      "They didn't make playoffs"
+    ],
+    "answer": "Divisional round (lost to Giants)",
+    "category": "Coaches",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which team did the Cowboys lose to in the 2007 Divisional round?",
+    "options": [
+      "New York Giants",
+      "Green Bay Packers",
+      "Seattle Seahawks",
+      "Tampa Bay Buccaneers"
+    ],
+    "answer": "New York Giants",
+    "category": "Coaches",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What innovative feature does AT&T Stadium's retractable roof use?",
+    "options": [
+      "Two panels that slide open",
+      "A single panel that lifts",
+      "Multiple sections that fold",
+      "A fabric canopy"
+    ],
+    "answer": "Two panels that slide open",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How long does it take for AT&T Stadium's roof to fully open or close?",
+    "options": [
+      "About 12 minutes",
+      "About 30 minutes",
+      "About 5 minutes",
+      "About 45 minutes"
+    ],
+    "answer": "About 12 minutes",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' first regular season home loss at AT&T Stadium?",
+    "options": [
+      "A loss to the Giants",
+      "A loss to the Eagles",
+      "A loss to the Packers",
+      "A loss to the Bears"
+    ],
+    "answer": "A loss to the Giants",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The Cotton Bowl still hosts which annual college football game?",
+    "options": [
+      "The Red River Rivalry (Texas vs Oklahoma)",
+      "The Cotton Bowl Classic",
+      "Army vs Navy",
+      "None \u2014 it's no longer used"
+    ],
+    "answer": "The Red River Rivalry (Texas vs Oklahoma)",
+    "category": "Stadiums",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the permanent seating capacity of AT&T Stadium (without standing room)?",
+    "options": [
+      "About 80,000",
+      "About 65,000",
+      "About 90,000",
+      "About 72,000"
+    ],
+    "answer": "About 80,000",
+    "category": "Stadiums",
+    "difficulty": "medium"
+  },
+  {
+    "question": "AT&T Stadium has been used for which motorsport event?",
+    "options": [
+      "Supercross/Monster Jam",
+      "NASCAR",
+      "Formula 1",
+      "IndyCar"
+    ],
+    "answer": "Supercross/Monster Jam",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the Cowboys' all-time record on Monday Night Football?",
+    "options": [
+      "One of the best in NFL history",
+      "Below average",
+      "About .500",
+      "They rarely play on MNF"
+    ],
+    "answer": "One of the best in NFL history",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which Cowboys player scored a rushing TD, receiving TD, and had an interception in the same game?",
+    "options": [
+      "Deion Sanders",
+      "Thomas Henderson",
+      "Bob Hayes",
+      "Cliff Harris"
+    ],
+    "answer": "Deion Sanders",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many career Pro Bowl selections did Emmitt Smith earn?",
+    "options": [
+      "8",
+      "6",
+      "10",
+      "5"
+    ],
+    "answer": "8",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many career Pro Bowl selections did Troy Aikman earn?",
+    "options": [
+      "6",
+      "8",
+      "4",
+      "5"
+    ],
+    "answer": "6",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many career Pro Bowl selections did Roger Staubach earn?",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "5"
+    ],
+    "answer": "6",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys player holds the record for longest punt in franchise history?",
+    "options": [
+      "Mat McBriar (75 yards)",
+      "Danny White",
+      "Sam Baker",
+      "Chris Jones"
+    ],
+    "answer": "Mat McBriar (75 yards)",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What was the Cowboys' overtime record in the 2016 season?",
+    "options": [
+      "2-0",
+      "1-1",
+      "0-2",
+      "They had no OT games"
+    ],
+    "answer": "2-0",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which Cowboys game had the highest TV rating in the 1990s?",
+    "options": [
+      "Super Bowl XXVII",
+      "Super Bowl XXVIII",
+      "Super Bowl XXX",
+      "The 1992 NFC Championship"
+    ],
+    "answer": "Super Bowl XXVII",
+    "category": "History",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Dak Prescott threw how many touchdown passes in the 2023 season?",
+    "options": [
+      "36",
+      "30",
+      "27",
+      "40"
+    ],
+    "answer": "36",
+    "category": "Players",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How many seasons did Emmitt Smith play for the Cowboys?",
+    "options": [
+      "13",
+      "11",
+      "15",
+      "12"
+    ],
+    "answer": "13",
+    "category": "Players",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The Cowboys' first nationally televised game was in what decade?",
+    "options": [
+      "1960s",
+      "1970s",
+      "1950s",
+      "1980s"
+    ],
+    "answer": "1960s",
+    "category": "History",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was Jerry Jones' first move after buying the Cowboys in 1989?",
+    "options": [
+      "Firing Tom Landry and hiring Jimmy Johnson",
+      "Trading Herschel Walker",
+      "Drafting Troy Aikman",
+      "Renovating Texas Stadium"
+    ],
+    "answer": "Firing Tom Landry and hiring Jimmy Johnson",
+    "category": "History",
+    "difficulty": "easy"
+  },
+  {
+    "question": "AT&T Stadium has a permanent art collection. True or false?",
+    "options": [
+      "True",
+      "False",
+      "Only temporary exhibits",
+      "Only sports memorabilia"
+    ],
+    "answer": "True",
+    "category": "Stadiums",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the total square footage of AT&T Stadium?",
+    "options": [
+      "About 3 million sq ft",
+      "About 1.5 million sq ft",
+      "About 5 million sq ft",
+      "About 2 million sq ft"
+    ],
+    "answer": "About 3 million sq ft",
+    "category": "Stadiums",
+    "difficulty": "hard"
+  }
+]
